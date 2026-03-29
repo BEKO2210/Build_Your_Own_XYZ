@@ -88,10 +88,26 @@ const topLanguages = languages.slice(0, 6);
       
       <!-- Links -->
       <div>
-        <h3 class="font-semibold text-sm mb-4">Resources</h3>
+        <h3 class="font-semibold text-sm mb-4">Rechtliches</h3>
         <ul class="space-y-2">
           <li>
-            <a 
+            <a
+              href={`${import.meta.env.BASE_URL}impressum`}
+              class="text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+            >
+              Impressum
+            </a>
+          </li>
+          <li>
+            <a
+              href={`${import.meta.env.BASE_URL}datenschutz`}
+              class="text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+            >
+              Datenschutz
+            </a>
+          </li>
+          <li>
+            <a
               href={`${import.meta.env.BASE_URL}contribute`}
               class="text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
             >
@@ -99,23 +115,13 @@ const topLanguages = languages.slice(0, 6);
             </a>
           </li>
           <li>
-            <a 
-              href="https://github.com/codecrafters-io/build-your-own-x/blob/master/README.md"
+            <a
+              href="https://github.com/codecrafters-io/build-your-own-x"
               target="_blank"
               rel="noopener noreferrer"
               class="text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
             >
-              Original README
-            </a>
-          </li>
-          <li>
-            <a 
-              href="https://codecrafters.io"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-            >
-              CodeCrafters
+              Original Repository
             </a>
           </li>
         </ul>
@@ -125,10 +131,11 @@ const topLanguages = languages.slice(0, 6);
     <!-- Bottom -->
     <div class="border-t border-gray-200 dark:border-gray-800 mt-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
       <p class="text-sm text-gray-500 dark:text-gray-400">
-        © {new Date().getFullYear()} Build Your Own X. Licensed under MIT.
+        &copy; {new Date().getFullYear()} Build Your Own X. Licensed under MIT.
       </p>
       <p class="text-sm text-gray-500 dark:text-gray-400">
-        Created by <a href="https://github.com/danistefanovic" class="hover:text-primary-600 dark:hover:text-primary-400">Daniel Stefanovic</a> · Maintained by <a href="https://codecrafters.io" class="hover:text-primary-600 dark:hover:text-primary-400">CodeCrafters</a>
+        Website von <strong>Belkis Aslani</strong> &middot;
+        Basierend auf dem Projekt von <a href="https://github.com/danistefanovic" class="hover:text-primary-600 dark:hover:text-primary-400">Daniel Stefanovic</a> &amp; <a href="https://codecrafters.io" class="hover:text-primary-600 dark:hover:text-primary-400">CodeCrafters</a>
       </p>
     </div>
   </div>

@@ -1,0 +1,129 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/navigation/Header.astro';
+import Footer from '../components/navigation/Footer.astro';
+---
+
+<BaseLayout
+  title="Datenschutz - Build Your Own X"
+  description="Datenschutzerkl&auml;rung von Build Your Own X."
+>
+  <Header />
+
+  <main class="flex-grow">
+    <section class="bg-gradient-to-br from-primary-50 to-white dark:from-gray-900 dark:to-gray-900/50 py-16">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h1 class="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">Datenschutzerkl&auml;rung</h1>
+        <p class="text-gray-600 dark:text-gray-400">Gem&auml;&szlig; DSGVO und BDSG</p>
+      </div>
+    </section>
+
+    <section class="py-12 lg:py-16">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="prose dark:prose-invert max-w-none">
+
+          <h2>1. Verantwortlicher</h2>
+          <p>
+            Belkis Aslani<br />
+            Vogelsangstr. 32<br />
+            71691 Freiberg am Neckar<br />
+            E-Mail: <a href="mailto:belkis.aslani@gmail.com">belkis.aslani@gmail.com</a><br />
+            Telefon: +49 176 81462526
+          </p>
+
+          <h2>2. Hosting</h2>
+          <p>
+            Diese Website wird &uuml;ber <strong>GitHub Pages</strong> (GitHub Inc., 88 Colin P Kelly Jr St,
+            San Francisco, CA 94107, USA) gehostet. GitHub kann beim Zugriff auf die Website
+            technische Daten wie IP-Adressen in Server-Logfiles speichern. Weitere Informationen
+            finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">Datenschutzerkl&auml;rung von GitHub</a>.
+          </p>
+          <p>
+            Die Nutzung von GitHub Pages erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+            Es besteht ein berechtigtes Interesse an einer zuverl&auml;ssigen Darstellung der Website.
+          </p>
+
+          <h2>3. Allgemeine Hinweise</h2>
+          <p>
+            Diese Website ist eine <strong>statische Website</strong>. Es werden keine Cookies gesetzt,
+            keine Tracking-Tools verwendet und keine personenbezogenen Daten aktiv erhoben.
+            Es gibt keine Registrierung, kein Login und keine Formulare, die personenbezogene
+            Daten erfassen.
+          </p>
+
+          <h2>4. Server-Logfiles</h2>
+          <p>
+            Der Hosting-Provider (GitHub) erhebt und speichert automatisch Informationen in
+            sogenannten Server-Logfiles, die Ihr Browser automatisch &uuml;bermittelt. Dies sind:
+          </p>
+          <ul>
+            <li>Browsertyp und Browserversion</li>
+            <li>Verwendetes Betriebssystem</li>
+            <li>Referrer URL</li>
+            <li>IP-Adresse des zugreifenden Rechners</li>
+            <li>Uhrzeit der Serveranfrage</li>
+          </ul>
+          <p>
+            Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenf&uuml;hrung dieser
+            Daten mit anderen Datenquellen wird nicht vorgenommen.
+          </p>
+
+          <h2>5. Externe Links und eingebettete Inhalte</h2>
+          <p>
+            Diese Website enth&auml;lt Links zu externen Websites (z.B. GitHub, YouTube, Blogs).
+            Beim Klick auf diese Links gelten die Datenschutzbestimmungen der jeweiligen Anbieter.
+          </p>
+          <p>
+            Auf Tutorial-Detailseiten werden YouTube-Videos &uuml;ber einen Iframe eingebettet.
+            Erst beim Laden der Seite wird eine Verbindung zu den YouTube-Servern hergestellt.
+            Dabei k&ouml;nnen Daten an Google/YouTube &uuml;bertragen werden. Weitere Informationen finden
+            Sie in der <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Datenschutzerkl&auml;rung von Google</a>.
+          </p>
+
+          <h2>6. Google Fonts</h2>
+          <p>
+            Diese Website nutzt Google Fonts (Inter, JetBrains Mono), die von den Servern von
+            Google (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) geladen werden.
+            Beim Laden der Schriftarten wird Ihre IP-Adresse an Google &uuml;bermittelt.
+            Weitere Informationen: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Datenschutzerkl&auml;rung</a>.
+          </p>
+          <p>
+            Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer
+            einheitlichen Darstellung der Schriftarten).
+          </p>
+
+          <h2>7. localStorage</h2>
+          <p>
+            Diese Website speichert die gew&auml;hlte Farbschema-Einstellung (Hell/Dunkel-Modus)
+            im localStorage Ihres Browsers. Dies sind keine personenbezogenen Daten und werden
+            nicht an Server &uuml;bermittelt. Sie k&ouml;nnen den localStorage jederzeit in Ihren
+            Browsereinstellungen l&ouml;schen.
+          </p>
+
+          <h2>8. Ihre Rechte</h2>
+          <p>Sie haben gem&auml;&szlig; DSGVO folgende Rechte:</p>
+          <ul>
+            <li><strong>Auskunftsrecht</strong> (Art. 15 DSGVO)</li>
+            <li><strong>Recht auf Berichtigung</strong> (Art. 16 DSGVO)</li>
+            <li><strong>Recht auf L&ouml;schung</strong> (Art. 17 DSGVO)</li>
+            <li><strong>Recht auf Einschr&auml;nkung der Verarbeitung</strong> (Art. 18 DSGVO)</li>
+            <li><strong>Recht auf Daten&uuml;bertragbarkeit</strong> (Art. 20 DSGVO)</li>
+            <li><strong>Widerspruchsrecht</strong> (Art. 21 DSGVO)</li>
+          </ul>
+          <p>
+            Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbeh&ouml;rde &uuml;ber die
+            Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
+          </p>
+
+          <h2>9. Aktualit&auml;t dieser Datenschutzerkl&auml;rung</h2>
+          <p>
+            Stand: M&auml;rz 2026. Diese Datenschutzerkl&auml;rung kann bei Bedarf aktualisiert werden.
+          </p>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
