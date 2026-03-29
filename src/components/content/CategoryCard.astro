@@ -1,0 +1,77 @@
+---
+import type { Category } from '../../types';
+
+interface Props {
+  category: Category;
+}
+
+const { category } = Astro.props;
+
+const categoryIcons: Record<string, string> = {
+  '3d-renderer': '🎨',
+  'ai-model': '🤖',
+  'augmented-reality': '👓',
+  'bittorrent-client': '📥',
+  'blockchain-cryptocurrency': '₿',
+  'bot': '🤖',
+  'command-line-tool': '💻',
+  'database': '🗄️',
+  'docker': '🐳',
+  'emulator-virtual-machine': '💾',
+  'front-end-framework-library': '⚛️',
+  'game': '🎮',
+  'git': '🌿',
+  'memory-allocator': '🧠',
+  'network-stack': '🌐',
+  'neural-network': '🧠',
+  'operating-system': '💿',
+  'physics-engine': '⚙️',
+  'processor': '🔲',
+  'programming-language': '🔤',
+  'regex-engine': '🔍',
+  'search-engine': '🔎',
+  'shell': '🐚',
+  'template-engine': '📄',
+  'text-editor': '📝',
+  'visual-recognition-system': '👁️',
+  'voxel-engine': '🧊',
+  'web-browser': '🌐',
+  'web-server': '🖥️',
+  'distributed-systems': '📡',
+  'uncategorized': '📦'
+};
+
+const icon = categoryIcons[category.slug] || '📦';
+---
+
+<a 
+  href={`${import.meta.env.BASE_URL}category/${category.slug}`}
+  class="group block p-6 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
+>
+  <div class="flex items-start justify-between mb-4">
+    <span class="text-3xl" role="img" aria-label={category.name}>{icon}</span>
+    <span class="text-sm font-medium text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded-full">
+      {category.tutorialCount}
+    </span>
+  </div>
+  
+  <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+    {category.name}
+  </h3>
+  
+  <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-2">
+    {category.description}
+  </p>
+  
+  <div class="mt-4 flex items-center text-sm text-primary-600 dark:text-primary-400 font-medium">
+    Explore tutorials
+    <svg 
+      class="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" 
+      fill="none" 
+      stroke="currentColor" 
+      viewBox="0 0 24 24"
+    >
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+    </svg>
+  </div>
+</a>

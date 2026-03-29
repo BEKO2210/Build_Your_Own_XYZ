@@ -1,0 +1,212 @@
+[
+  {
+    "id": "distributed-systems",
+    "name": "Distributed Systems",
+    "slug": "distributed-systems",
+    "description": "Tutorials for building your own distributed systems",
+    "tutorialCount": 1
+  },
+  {
+    "id": "3d-renderer",
+    "name": "3D Renderer",
+    "slug": "3d-renderer",
+    "description": "Tutorials for building your own 3d renderer",
+    "tutorialCount": 11
+  },
+  {
+    "id": "ai-model",
+    "name": "AI Model",
+    "slug": "ai-model",
+    "description": "Tutorials for building your own ai model",
+    "tutorialCount": 3
+  },
+  {
+    "id": "augmented-reality",
+    "name": "Augmented Reality",
+    "slug": "augmented-reality",
+    "description": "Tutorials for building your own augmented reality",
+    "tutorialCount": 6
+  },
+  {
+    "id": "bittorrent-client",
+    "name": "BitTorrent Client",
+    "slug": "bittorrent-client",
+    "description": "Tutorials for building your own bittorrent client",
+    "tutorialCount": 5
+  },
+  {
+    "id": "blockchain-cryptocurrency",
+    "name": "Blockchain / Cryptocurrency",
+    "slug": "blockchain-cryptocurrency",
+    "description": "Tutorials for building your own blockchain / cryptocurrency",
+    "tutorialCount": 21
+  },
+  {
+    "id": "bot",
+    "name": "Bot",
+    "slug": "bot",
+    "description": "Tutorials for building your own bot",
+    "tutorialCount": 15
+  },
+  {
+    "id": "command-line-tool",
+    "name": "Command-Line Tool",
+    "slug": "command-line-tool",
+    "description": "Tutorials for building your own command-line tool",
+    "tutorialCount": 9
+  },
+  {
+    "id": "database",
+    "name": "Database",
+    "slug": "database",
+    "description": "Tutorials for building your own database",
+    "tutorialCount": 13
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "slug": "docker",
+    "description": "Tutorials for building your own docker",
+    "tutorialCount": 6
+  },
+  {
+    "id": "emulator-virtual-machine",
+    "name": "Emulator / Virtual Machine",
+    "slug": "emulator-virtual-machine",
+    "description": "Tutorials for building your own emulator / virtual machine",
+    "tutorialCount": 13
+  },
+  {
+    "id": "front-end-framework-library",
+    "name": "Front-end Framework / Library",
+    "slug": "front-end-framework-library",
+    "description": "Tutorials for building your own front-end framework / library",
+    "tutorialCount": 14
+  },
+  {
+    "id": "game",
+    "name": "Game",
+    "slug": "game",
+    "description": "Tutorials for building your own game",
+    "tutorialCount": 34
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "slug": "git",
+    "description": "Tutorials for building your own git",
+    "tutorialCount": 7
+  },
+  {
+    "id": "memory-allocator",
+    "name": "Memory Allocator",
+    "slug": "memory-allocator",
+    "description": "Tutorials for building your own memory allocator",
+    "tutorialCount": 1
+  },
+  {
+    "id": "network-stack",
+    "name": "Network Stack",
+    "slug": "network-stack",
+    "description": "Tutorials for building your own network stack",
+    "tutorialCount": 4
+  },
+  {
+    "id": "neural-network",
+    "name": "Neural Network",
+    "slug": "neural-network",
+    "description": "Tutorials for building your own neural network",
+    "tutorialCount": 16
+  },
+  {
+    "id": "operating-system",
+    "name": "Operating System",
+    "slug": "operating-system",
+    "description": "Tutorials for building your own operating system",
+    "tutorialCount": 19
+  },
+  {
+    "id": "physics-engine",
+    "name": "Physics Engine",
+    "slug": "physics-engine",
+    "description": "Tutorials for building your own physics engine",
+    "tutorialCount": 7
+  },
+  {
+    "id": "processor",
+    "name": "Processor",
+    "slug": "processor",
+    "description": "Tutorials for building your own processor",
+    "tutorialCount": 1
+  },
+  {
+    "id": "programming-language",
+    "name": "Programming Language",
+    "slug": "programming-language",
+    "description": "Tutorials for building your own programming language",
+    "tutorialCount": 41
+  },
+  {
+    "id": "regex-engine",
+    "name": "Regex Engine",
+    "slug": "regex-engine",
+    "description": "Tutorials for building your own regex engine",
+    "tutorialCount": 9
+  },
+  {
+    "id": "search-engine",
+    "name": "Search Engine",
+    "slug": "search-engine",
+    "description": "Tutorials for building your own search engine",
+    "tutorialCount": 6
+  },
+  {
+    "id": "shell",
+    "name": "Shell",
+    "slug": "shell",
+    "description": "Tutorials for building your own shell",
+    "tutorialCount": 7
+  },
+  {
+    "id": "template-engine",
+    "name": "Template Engine",
+    "slug": "template-engine",
+    "description": "Tutorials for building your own template engine",
+    "tutorialCount": 5
+  },
+  {
+    "id": "text-editor",
+    "name": "Text Editor",
+    "slug": "text-editor",
+    "description": "Tutorials for building your own text editor",
+    "tutorialCount": 6
+  },
+  {
+    "id": "visual-recognition-system",
+    "name": "Visual Recognition System",
+    "slug": "visual-recognition-system",
+    "description": "Tutorials for building your own visual recognition system",
+    "tutorialCount": 2
+  },
+  {
+    "id": "voxel-engine",
+    "name": "Voxel Engine",
+    "slug": "voxel-engine",
+    "description": "Tutorials for building your own voxel engine",
+    "tutorialCount": 1
+  },
+  {
+    "id": "web-browser",
+    "name": "Web Browser",
+    "slug": "web-browser",
+    "description": "Tutorials for building your own web browser",
+    "tutorialCount": 2
+  },
+  {
+    "id": "web-server",
+    "name": "Web Server",
+    "slug": "web-server",
+    "description": "Tutorials for building your own web server",
+    "tutorialCount": 73
+  }
+]

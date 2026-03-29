@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/navigation/Header.astro';
+import Footer from '../components/navigation/Footer.astro';
+---
+
+<BaseLayout 
+  title="Page Not Found - Build Your Own X"
+  description="The page you're looking for doesn't exist."
+>
+  <Header />
+  
+  <main class="flex-grow flex items-center justify-center py-16">
+    <div class="max-w-md mx-auto px-4 text-center">
+      <div class="text-6xl mb-4">🔍</div>
+      <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+        Page Not Found
+      </h1>
+      <p class="text-gray-600 dark:text-gray-400 mb-8">
+        The page you're looking for doesn't exist. It might have been moved or deleted.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a 
+          href={`${import.meta.env.BASE_URL}`}
+          class="inline-flex items-center justify-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded-lg transition-colors"
+        >
+          Go Home
+        </a>
+        <a 
+          href={`${import.meta.env.BASE_URL}search`}
+          class="inline-flex items-center justify-center px-6 py-3 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 font-medium rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+        >
+          Search Tutorials
+        </a>
+      </div>
+    </div>
+  </main>
+  
+  <Footer />
+</BaseLayout>

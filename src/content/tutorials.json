@@ -1,0 +1,6526 @@
+[
+  {
+    "id": "distributed-systems-building-your-own-kafka-like-system-from-scratch-a-step-by-step-guide",
+    "title": "Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide",
+    "slug": "building-your-own-kafka-like-system-from-scratch-a-step-by-step-guide",
+    "category": "Distributed Systems",
+    "categorySlug": "distributed-systems",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "https://github.com/buildthingsuseful/build-your-own-kafka",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-introduction-to-ray-tracing-a-simple-method-for-creating-3d-images",
+    "title": "Introduction to Ray Tracing: a Simple Method for Creating 3D Images",
+    "slug": "introduction-to-ray-tracing-a-simple-method-for-creating-3d-images",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-how-opengl-works-software-rendering-in-500-lines-of-code",
+    "title": "How OpenGL works: software rendering in 500 lines of code",
+    "slug": "how-opengl-works-software-rendering-in-500-lines-of-code",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/ssloy/tinyrenderer/wiki",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-raycasting-engine-of-wolfenstein-3d",
+    "title": "Raycasting engine of Wolfenstein 3D",
+    "slug": "raycasting-engine-of-wolfenstein-3d",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://lodev.org/cgtutor/raycasting.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-physically-based-renderingfrom-theory-to-implementation",
+    "title": "Physically Based Rendering:From Theory To Implementation",
+    "slug": "physically-based-renderingfrom-theory-to-implementation",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.pbr-book.org/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-ray-tracing-in-one-weekend",
+    "title": "Ray Tracing in One Weekend",
+    "slug": "ray-tracing-in-one-weekend",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://raytracing.github.io/books/RayTracingInOneWeekend.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-rasterization-a-practical-implementation",
+    "title": "Rasterization: a Practical Implementation",
+    "slug": "rasterization-a-practical-implementation",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript",
+    "title": "Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript",
+    "slug": "learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "C#",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "c",
+      "typescript",
+      "javascript"
+    ],
+    "url": "https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-build-your-own-3d-renderer",
+    "title": "Build your own 3D renderer",
+    "slug": "build-your-own-3d-renderer",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "Java",
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "java",
+      "javascript"
+    ],
+    "url": "https://avik-das.github.io/build-your-own-raytracer/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-how-to-create-your-own-simple-3d-render-engine-in-pure-java",
+    "title": "How to create your own simple 3D render engine in pure Java",
+    "slug": "how-to-create-your-own-simple-3d-render-engine-in-pure-java",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-computer-graphics-from-scratch",
+    "title": "Computer Graphics from scratch",
+    "slug": "computer-graphics-from-scratch",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "JavaScript",
+      "Pseudocode"
+    ],
+    "languageSlugs": [
+      "javascript",
+      "pseudocode"
+    ],
+    "url": "http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "3d-renderer-a-3d-modeller",
+    "title": "A 3D Modeller",
+    "slug": "a-3d-modeller",
+    "category": "3D Renderer",
+    "categorySlug": "3d-renderer",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://aosabook.org/en/500L/a-3d-modeller.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "ai-model-a-large-language-model-llm",
+    "title": "A Large Language Model (LLM)",
+    "slug": "a-large-language-model-llm",
+    "category": "AI Model",
+    "categorySlug": "ai-model",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "ai-model-diffusion-models-for-image-generation",
+    "title": "Diffusion Models for Image Generation",
+    "slug": "diffusion-models-for-image-generation",
+    "category": "AI Model",
+    "categorySlug": "ai-model",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://huggingface.co/learn/diffusion-course/en/unit1/3",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "ai-model-rag-for-document-search",
+    "title": "RAG for Document Search",
+    "slug": "rag-for-document-search",
+    "category": "AI Model",
+    "categorySlug": "ai-model",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://github.com/langchain-ai/rag-from-scratch",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "augmented-reality-how-to-augmented-reality-app-tutorial-for-beginners-with-vuforia-and-unity-3d",
+    "title": "How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D",
+    "slug": "how-to-augmented-reality-app-tutorial-for-beginners-with-vuforia-and-unity-3d",
+    "category": "Augmented Reality",
+    "categorySlug": "augmented-reality",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/watch?v=uXNjNcqW4kY",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "beginner",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "augmented-reality-how-to-unity-arcore",
+    "title": "How To Unity ARCore",
+    "slug": "how-to-unity-arcore",
+    "category": "Augmented Reality",
+    "categorySlug": "augmented-reality",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "augmented-reality-ar-portal-tutorial-with-unity",
+    "title": "AR Portal Tutorial with Unity",
+    "slug": "ar-portal-tutorial-with-unity",
+    "category": "Augmented Reality",
+    "categorySlug": "augmented-reality",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLPCqNOwwN794Gz5fzUSi1p4OqLU0HTmvn",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "augmented-reality-how-to-create-a-dragon-in-augmented-reality-in-unity-arcore",
+    "title": "How to create a Dragon in Augmented Reality in Unity ARCore",
+    "slug": "how-to-create-a-dragon-in-augmented-reality-in-unity-arcore",
+    "category": "Augmented Reality",
+    "categorySlug": "augmented-reality",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/watch?v=qTSDPkPyPqs",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "augmented-reality-how-to-augmented-reality-ar-tutorial-arkit-portal-to-the-upside-down",
+    "title": "How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down",
+    "slug": "how-to-augmented-reality-ar-tutorial-arkit-portal-to-the-upside-down",
+    "category": "Augmented Reality",
+    "categorySlug": "augmented-reality",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/watch?v=Z5AmqMuNi08",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "augmented-reality-augmented-reality-with-python-and-opencv",
+    "title": "Augmented Reality with Python and OpenCV",
+    "slug": "augmented-reality-with-python-and-opencv",
+    "category": "Augmented Reality",
+    "categorySlug": "augmented-reality",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bittorrent-client-building-a-bittorrent-client-from-scratch-in-c",
+    "title": "Building a BitTorrent client from scratch in C#",
+    "slug": "building-a-bittorrent-client-from-scratch-in-c",
+    "category": "BitTorrent Client",
+    "categorySlug": "bittorrent-client",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.seanjoflynn.com/research/bittorrent.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bittorrent-client-building-a-bittorrent-client-from-the-ground-up-in-go",
+    "title": "Building a BitTorrent client from the ground up in Go",
+    "slug": "building-a-bittorrent-client-from-the-ground-up-in-go",
+    "category": "BitTorrent Client",
+    "categorySlug": "bittorrent-client",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://blog.jse.li/posts/torrent/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bittorrent-client-writing-a-bencode-parser",
+    "title": "Writing a Bencode Parser",
+    "slug": "writing-a-bencode-parser",
+    "category": "BitTorrent Client",
+    "categorySlug": "bittorrent-client",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day02_bencode.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bittorrent-client-write-your-own-bittorrent-client",
+    "title": "Write your own bittorrent client",
+    "slug": "write-your-own-bittorrent-client",
+    "category": "BitTorrent Client",
+    "categorySlug": "bittorrent-client",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bittorrent-client-a-bittorrent-client-in-python-35",
+    "title": "A BitTorrent client in Python 3.5",
+    "slug": "a-bittorrent-client-in-python-35",
+    "category": "BitTorrent Client",
+    "categorySlug": "bittorrent-client",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://markuseliasson.se/article/bittorrent-in-python/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-functional-blockchain",
+    "title": "Functional Blockchain",
+    "slug": "functional-blockchain",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "ATS"
+    ],
+    "languageSlugs": [
+      "ats"
+    ],
+    "url": "https://beta.observablehq.com/@galletti94/functional-blockchain",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-write-your-own-blockchain-and-pow-algorithm-using-crystal",
+    "title": "Write your own blockchain and PoW algorithm using Crystal",
+    "slug": "write-your-own-blockchain-and-pow-algorithm-using-crystal",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Crystal"
+    ],
+    "languageSlugs": [
+      "crystal"
+    ],
+    "url": "https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-building-blockchain-in-go",
+    "title": "Building Blockchain in Go",
+    "slug": "building-blockchain-in-go",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://jeiwan.net/posts/building-blockchain-in-go-part-1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-code-your-own-blockchain-in-less-than-200-lines-of-go",
+    "title": "Code your own blockchain in less than 200 lines of Go",
+    "slug": "code-your-own-blockchain-in-less-than-200-lines-of-go",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-creating-your-first-blockchain-with-java",
+    "title": "Creating Your First Blockchain with Java",
+    "slug": "creating-your-first-blockchain-with-java",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-a-cryptocurrency-implementation-in-less-than-1500-lines-of-code",
+    "title": "A cryptocurrency implementation in less than 1500 lines of code",
+    "slug": "a-cryptocurrency-implementation-in-less-than-1500-lines-of-code",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/conradoqg/naivecoin",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-build-your-own-blockchain-in-javascript",
+    "title": "Build your own Blockchain in JavaScript",
+    "slug": "build-your-own-blockchain-in-javascript",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/nambrot/blockchain-in-js",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-learn-build-a-javascript-blockchain",
+    "title": "Learn & Build a JavaScript Blockchain",
+    "slug": "learn-build-a-javascript-blockchain",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-creating-a-blockchain-with-javascript",
+    "title": "Creating a blockchain with JavaScript",
+    "slug": "creating-a-blockchain-with-javascript",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/SavjeeTutorials/SavjeeCoin",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-how-to-launch-your-own-production-ready-cryptocurrency",
+    "title": "How To Launch Your Own Production-Ready Cryptocurrency",
+    "slug": "how-to-launch-your-own-production-ready-cryptocurrency",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-writing-a-blockchain-in-nodejs",
+    "title": "Writing a Blockchain in Node.js",
+    "slug": "writing-a-blockchain-in-nodejs",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-lets-implement-a-cryptocurrency-in-kotlin",
+    "title": "Let’s implement a cryptocurrency in Kotlin",
+    "slug": "lets-implement-a-cryptocurrency-in-kotlin",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Kotlin"
+    ],
+    "languageSlugs": [
+      "kotlin"
+    ],
+    "url": "https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-learn-blockchains-by-building-one",
+    "title": "Learn Blockchains by Building One",
+    "slug": "learn-blockchains-by-building-one",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://hackernoon.com/learn-blockchains-by-building-one-117428612f46",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-build-your-own-blockchain-a-python-tutorial",
+    "title": "Build your own blockchain: a Python tutorial",
+    "slug": "build-your-own-blockchain-a-python-tutorial",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://ecomunsing.com/build-your-own-blockchain",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-a-practical-introduction-to-blockchain-with-python",
+    "title": "A Practical Introduction to Blockchain with Python",
+    "slug": "a-practical-introduction-to-blockchain-with-python",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-lets-build-the-tiniest-blockchain",
+    "title": "Let’s Build the Tiniest Blockchain",
+    "slug": "lets-build-the-tiniest-blockchain",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-programming-blockchains-step-by-step-manuscripts-book-edition",
+    "title": "Programming Blockchains Step-by-Step (Manuscripts Book Edition)",
+    "slug": "programming-blockchains-step-by-step-manuscripts-book-edition",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://github.com/yukimotopress/programming-blockchains-step-by-step",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-how-to-build-a-simple-actor-based-blockchain",
+    "title": "How to build a simple actor-based blockchain",
+    "slug": "how-to-build-a-simple-actor-based-blockchain",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Scala"
+    ],
+    "languageSlugs": [
+      "scala"
+    ],
+    "url": "https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-naivecoin-a-tutorial-for-building-a-cryptocurrency",
+    "title": "Naivecoin: a tutorial for building a cryptocurrency",
+    "slug": "naivecoin-a-tutorial-for-building-a-cryptocurrency",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "TypeScript"
+    ],
+    "languageSlugs": [
+      "typescript"
+    ],
+    "url": "https://lhartikk.github.io/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-naivecoinstake-a-tutorial-for-building-a-cryptocurrency-with-the-proof-of-stake-consensus",
+    "title": "NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus",
+    "slug": "naivecoinstake-a-tutorial-for-building-a-cryptocurrency-with-the-proof-of-stake-consensus",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "TypeScript"
+    ],
+    "languageSlugs": [
+      "typescript"
+    ],
+    "url": "https://naivecoinstake.learn.uno/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "blockchain-cryptocurrency-building-a-blockchain-in-rust-substrate",
+    "title": "Building A Blockchain in Rust & Substrate",
+    "slug": "building-a-blockchain-in-rust-substrate",
+    "category": "Blockchain / Cryptocurrency",
+    "categorySlug": "blockchain-cryptocurrency",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-roll-your-own-irc-bot",
+    "title": "Roll your own IRC bot",
+    "slug": "roll-your-own-irc-bot",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Haskell"
+    ],
+    "languageSlugs": [
+      "haskell"
+    ],
+    "url": "https://wiki.haskell.org/Roll_your_own_IRC_bot",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-creating-a-simple-facebook-messenger-ai-bot-with-apiai-in-nodejs",
+    "title": "Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js",
+    "slug": "creating-a-simple-facebook-messenger-ai-bot-with-apiai-in-nodejs",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "bot-how-to-make-a-responsive-telegram-bot",
+    "title": "How to make a responsive telegram bot",
+    "slug": "how-to-make-a-responsive-telegram-bot",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-create-a-discord-bot",
+    "title": "Create a Discord bot",
+    "slug": "create-a-discord-bot",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://discordjs.guide/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-gifbot-building-a-github-app",
+    "title": "gifbot - Building a GitHub App",
+    "slug": "gifbot-building-a-github-app",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-building-a-simple-ai-chatbot-with-web-speech-api-and-nodejs",
+    "title": "Building A Simple AI Chatbot With Web Speech API And Node.js",
+    "slug": "building-a-simple-ai-chatbot-with-web-speech-api-and-nodejs",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "bot-how-to-build-your-first-slack-bot-with-python",
+    "title": "How to Build Your First Slack Bot with Python",
+    "slug": "how-to-build-your-first-slack-bot-with-python",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.fullstackpython.com/blog/build-first-slack-bot-python.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute",
+    "title": "How to build a Slack Bot with Python using Slack Events API & Django under 20 minute",
+    "slug": "how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-build-a-reddit-bot",
+    "title": "Build a Reddit Bot",
+    "slug": "build-a-reddit-bot",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://pythonforengineers.com/blog/build-a-reddit-bot-part-1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-how-to-make-a-reddit-bot",
+    "title": "How To Make A Reddit Bot",
+    "slug": "how-to-make-a-reddit-bot",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.youtube.com/watch?v=krTUf7BpTc0",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "bot-how-to-create-a-telegram-bot-using-python",
+    "title": "How To Create a Telegram Bot Using Python",
+    "slug": "how-to-create-a-telegram-bot-using-python",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-create-a-twitter-bot-in-python-using-tweepy",
+    "title": "Create a Twitter Bot in Python Using Tweepy",
+    "slug": "create-a-twitter-bot-in-python-using-tweepy",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-creating-reddit-bot-with-python-praw",
+    "title": "Creating Reddit Bot with Python & PRAW",
+    "slug": "creating-reddit-bot-with-python-praw",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "bot-build-a-cryptocurrency-trading-bot-with-r",
+    "title": "Build A Cryptocurrency Trading Bot with R",
+    "slug": "build-a-cryptocurrency-trading-bot-with-r",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "R"
+    ],
+    "languageSlugs": [
+      "r"
+    ],
+    "url": "https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "bot-a-bot-for-starcraft-in-rust-c-or-any-other-language",
+    "title": "A bot for Starcraft in Rust, C or any other language",
+    "slug": "a-bot-for-starcraft-in-rust-c-or-any-other-language",
+    "category": "Bot",
+    "categorySlug": "bot",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://habr.com/en/post/436254/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-visualize-your-local-git-contributions-with-go",
+    "title": "Visualize your local git contributions with Go",
+    "slug": "visualize-your-local-git-contributions-with-go",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://flaviocopes.com/go-git-contributions/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-build-a-command-line-app-with-go-lolcat",
+    "title": "Build a command line app with Go: lolcat",
+    "slug": "build-a-command-line-app-with-go-lolcat",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://flaviocopes.com/go-tutorial-lolcat/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-building-a-cli-command-with-go-cowsay",
+    "title": "Building a cli command with Go: cowsay",
+    "slug": "building-a-cli-command-with-go-cowsay",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://flaviocopes.com/go-tutorial-cowsay/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-go-cli-tutorial-fortune-clone",
+    "title": "Go CLI tutorial: fortune clone",
+    "slug": "go-cli-tutorial-fortune-clone",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://flaviocopes.com/go-tutorial-fortune/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-writing-a-stow-alternative-to-manage-dotfiles",
+    "title": "Writing a stow alternative to manage dotfiles",
+    "slug": "writing-a-stow-alternative-to-manage-dotfiles",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day06_nistow.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-create-a-cli-tool-in-javascript",
+    "title": "Create a CLI tool in Javascript",
+    "slug": "create-a-cli-tool-in-javascript",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://citw.dev/tutorial/create-your-own-cli-tool",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-command-line-apps-in-rust",
+    "title": "Command line apps in Rust",
+    "slug": "command-line-apps-in-rust",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://rust-cli.github.io/book/index.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-writing-a-command-line-tool-in-rust",
+    "title": "Writing a Command Line Tool in Rust",
+    "slug": "writing-a-command-line-tool-in-rust",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "command-line-tool-build-your-own-cli-app-in-zig-from-scratch",
+    "title": "Build Your Own CLI App in Zig from Scratch",
+    "slug": "build-your-own-cli-app-in-zig-from-scratch",
+    "category": "Command-Line Tool",
+    "categorySlug": "command-line-tool",
+    "languages": [
+      "Zig"
+    ],
+    "languageSlugs": [
+      "zig"
+    ],
+    "url": "https://rebuild-x.github.io/docs/#/./zig/terminal/cli",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-lets-build-a-simple-database",
+    "title": "Let's Build a Simple Database",
+    "slug": "lets-build-a-simple-database",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://cstack.github.io/db_tutorial/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "database-build-your-own-redis-from-scratch",
+    "title": "Build Your Own Redis from Scratch",
+    "slug": "build-your-own-redis-from-scratch",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://build-your-own.org/redis",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-build-your-own-database",
+    "title": "Build Your Own Database",
+    "slug": "build-your-own-database",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-an-archaeology-inspired-database",
+    "title": "An Archaeology-Inspired Database",
+    "slug": "an-archaeology-inspired-database",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Clojure"
+    ],
+    "languageSlugs": [
+      "clojure"
+    ],
+    "url": "http://aosabook.org/en/500L/an-archaeology-inspired-database.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-why-you-should-build-your-own-nosql-database",
+    "title": "Why you should build your own NoSQL Database",
+    "slug": "why-you-should-build-your-own-nosql-database",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Crystal"
+    ],
+    "languageSlugs": [
+      "crystal"
+    ],
+    "url": "https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-build-your-own-database-from-scratch-from-btree-to-sql-in-3000-lines",
+    "title": "Build Your Own Database from Scratch: From B+Tree To SQL in 3000 Lines",
+    "slug": "build-your-own-database-from-scratch-from-btree-to-sql-in-3000-lines",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://build-your-own.org/database/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-code-a-database-in-45-steps-a-series-of-test-driven-small-coding-puzzles",
+    "title": "Code a database in 45 steps: a series of test-driven small coding puzzles",
+    "slug": "code-a-database-in-45-steps-a-series-of-test-driven-small-coding-puzzles",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://trialofcode.org/database/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-build-your-own-redis-from-scratch",
+    "title": "Build Your Own Redis from Scratch",
+    "slug": "build-your-own-redis-from-scratch",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://www.build-redis-from-scratch.dev/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-dagoba-an-in-memory-graph-database",
+    "title": "Dagoba: an in-memory graph database",
+    "slug": "dagoba-an-in-memory-graph-database",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-dbdb-dog-bed-database",
+    "title": "DBDB: Dog Bed Database",
+    "slug": "dbdb-dog-bed-database",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://aosabook.org/en/500L/dbdb-dog-bed-database.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-write-your-own-miniature-redis-with-python",
+    "title": "Write your own miniature Redis with Python",
+    "slug": "write-your-own-miniature-redis-with-python",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-build-your-own-fast-persistent-kv-store-in-ruby",
+    "title": "Build your own fast, persistent KV store in Ruby",
+    "slug": "build-your-own-fast-persistent-kv-store-in-ruby",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://dineshgowda.com/posts/build-your-own-persistent-kv-store/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "database-build-your-own-redis-client-and-server",
+    "title": "Build your own Redis client and server",
+    "slug": "build-your-own-redis-client-and-server",
+    "category": "Database",
+    "categorySlug": "database",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://tokio.rs/tokio/tutorial/setup",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "docker-linux-containers-in-500-lines-of-code",
+    "title": "Linux containers in 500 lines of code",
+    "slug": "linux-containers-in-500-lines-of-code",
+    "category": "Docker",
+    "categorySlug": "docker",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "docker-build-your-own-container-using-less-than-100-lines-of-go",
+    "title": "Build Your Own Container Using Less than 100 Lines of Go",
+    "slug": "build-your-own-container-using-less-than-100-lines-of-go",
+    "category": "Docker",
+    "categorySlug": "docker",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://www.infoq.com/articles/build-a-container-golang",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "docker-building-a-container-from-scratch-in-go",
+    "title": "Building a container from scratch in Go",
+    "slug": "building-a-container-from-scratch-in-go",
+    "category": "Docker",
+    "categorySlug": "docker",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://www.youtube.com/watch?v=8fi7uSYlOdc",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "docker-a-workshop-on-linux-containers-rebuild-docker-from-scratch",
+    "title": "A workshop on Linux containers: Rebuild Docker from Scratch",
+    "slug": "a-workshop-on-linux-containers-rebuild-docker-from-scratch",
+    "category": "Docker",
+    "categorySlug": "docker",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://github.com/Fewbytes/rubber-docker",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "docker-a-proof-of-concept-imitation-of-docker-written-in-100-python",
+    "title": "A proof-of-concept imitation of Docker, written in 100% Python",
+    "slug": "a-proof-of-concept-imitation-of-docker-written-in-100-python",
+    "category": "Docker",
+    "categorySlug": "docker",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://github.com/tonybaloney/mocker",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "docker-docker-implemented-in-around-100-lines-of-bash",
+    "title": "Docker implemented in around 100 lines of bash",
+    "slug": "docker-implemented-in-around-100-lines-of-bash",
+    "category": "Docker",
+    "categorySlug": "docker",
+    "languages": [
+      "Shell"
+    ],
+    "languageSlugs": [
+      "shell"
+    ],
+    "url": "https://github.com/p8952/bocker",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-home-grown-bytecode-interpreters",
+    "title": "Home-grown bytecode interpreters",
+    "slug": "home-grown-bytecode-interpreters",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-virtual-machine-in-c",
+    "title": "Virtual machine in C",
+    "slug": "virtual-machine-in-c",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-write-your-own-virtual-machine",
+    "title": "Write your Own Virtual Machine",
+    "slug": "write-your-own-virtual-machine",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://justinmeiners.github.io/lc3-vm/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-writing-a-game-boy-emulator-cinoop",
+    "title": "Writing a Game Boy emulator, Cinoop",
+    "slug": "writing-a-game-boy-emulator-cinoop",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://cturt.github.io/cinoop.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-how-to-write-an-emulator-chip-8-interpreter",
+    "title": "How to write an emulator (CHIP-8 interpreter)",
+    "slug": "how-to-write-an-emulator-chip-8-interpreter",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-emulation-tutorial-chip-8-interpreter",
+    "title": "Emulation tutorial (CHIP-8 interpreter)",
+    "slug": "emulation-tutorial-chip-8-interpreter",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.codeslinger.co.uk/pages/projects/chip8.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-emulation-tutorial-gameboy-emulator",
+    "title": "Emulation tutorial (GameBoy emulator)",
+    "slug": "emulation-tutorial-gameboy-emulator",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.codeslinger.co.uk/pages/projects/gameboy.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-emulation-tutorial-master-system-emulator",
+    "title": "Emulation tutorial (Master System emulator)",
+    "slug": "emulation-tutorial-master-system-emulator",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-nes-emulator-from-scratch",
+    "title": "NES Emulator From Scratch",
+    "slug": "nes-emulator-from-scratch",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "emulator-virtual-machine-chip-8-in-common-lisp",
+    "title": "CHIP-8 in Common Lisp",
+    "slug": "chip-8-in-common-lisp",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "Common Lisp"
+    ],
+    "languageSlugs": [
+      "common-lisp"
+    ],
+    "url": "http://stevelosh.com/blog/2016/12/chip8-cpu/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-gameboy-emulation-in-javascript",
+    "title": "GameBoy Emulation in JavaScript",
+    "slug": "gameboy-emulation-in-javascript",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://imrannazar.com/GameBoy-Emulation-in-JavaScript",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-emulation-basics-write-your-own-chip-8-emulatorinterpreter",
+    "title": "Emulation Basics: Write your own Chip 8 Emulator/Interpreter",
+    "slug": "emulation-basics-write-your-own-chip-8-emulatorinterpreter",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "emulator-virtual-machine-0dmg-learning-rust-by-building-a-partial-game-boy-emulator",
+    "title": "0dmg: Learning Rust by building a partial Game Boy emulator",
+    "slug": "0dmg-learning-rust-by-building-a-partial-game-boy-emulator",
+    "category": "Emulator / Virtual Machine",
+    "categorySlug": "emulator-virtual-machine",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://jeremybanks.github.io/0dmg/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-wtf-is-jsx-lets-build-a-jsx-renderer",
+    "title": "WTF is JSX (Let's Build a JSX Renderer)",
+    "slug": "wtf-is-jsx-lets-build-a-jsx-renderer",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://jasonformat.com/wtf-is-jsx/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-a-diy-guide-to-build-your-own-react",
+    "title": "A DIY guide to build your own React",
+    "slug": "a-diy-guide-to-build-your-own-react",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/hexacta/didact",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-building-react-from-scratch",
+    "title": "Building React From Scratch",
+    "slug": "building-react-from-scratch",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://www.youtube.com/watch?v=_MAD4Oly9yg",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "front-end-framework-library-gooact-react-in-160-lines-of-javascript",
+    "title": "Gooact: React in 160 lines of JavaScript",
+    "slug": "gooact-react-in-160-lines-of-javascript",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-learn-how-react-reconciler-package-works-by-building-your-own-lightweight-react-dom",
+    "title": "Learn how React Reconciler package works by building your own lightweight React DOM",
+    "slug": "learn-how-react-reconciler-package-works-by-building-your-own-lightweight-react-dom",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-build-yourself-a-redux",
+    "title": "Build Yourself a Redux",
+    "slug": "build-yourself-a-redux",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://zapier.com/engineering/how-to-build-redux/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-lets-write-redux",
+    "title": "Let’s Write Redux!",
+    "slug": "lets-write-redux",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://www.jamasoftware.com/blog/lets-write-redux/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-redux-implementing-store-from-scratch",
+    "title": "Redux: Implementing Store from Scratch",
+    "slug": "redux-implementing-store-from-scratch",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://egghead.io/lessons/react-redux-implementing-store-from-scratch",
+    "contentType": "video",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "front-end-framework-library-build-your-own-simplified-angularjs-in-200-lines-of-javascript",
+    "title": "Build Your own Simplified AngularJS in 200 Lines of JavaScript",
+    "slug": "build-your-own-simplified-angularjs-in-200-lines-of-javascript",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-make-your-own-angularjs",
+    "title": "Make Your Own AngularJS",
+    "slug": "make-your-own-angularjs",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-how-to-write-your-own-virtual-dom",
+    "title": "How to write your own Virtual DOM",
+    "slug": "how-to-write-your-own-virtual-dom",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-building-a-frontend-framework-from-scratch-with-components-templating-state-vdom",
+    "title": "Building a frontend framework, from scratch, with components (templating, state, VDOM)",
+    "slug": "building-a-frontend-framework-from-scratch-with-components-templating-state-vdom",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://mfrachet.github.io/create-frontend-framework/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-build-your-own-react",
+    "title": "Build your own React",
+    "slug": "build-your-own-react",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://pomb.us/build-your-own-react/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "front-end-framework-library-building-a-custom-react-renderer",
+    "title": "Building a Custom React Renderer",
+    "slug": "building-a-custom-react-renderer",
+    "category": "Front-end Framework / Library",
+    "categorySlug": "front-end-framework-library",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://youtu.be/CGpMlWVcHok",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-handmade-hero",
+    "title": "Handmade Hero",
+    "slug": "handmade-hero",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://handmadehero.org/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-how-to-program-an-nes-game-in-c",
+    "title": "How to Program an NES game in C",
+    "slug": "how-to-program-an-nes-game-in-c",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://nesdoug.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-chess-engine-in-c",
+    "title": "Chess Engine In C",
+    "slug": "chess-engine-in-c",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-lets-make-dangerous-dave",
+    "title": "Let's Make: Dangerous Dave",
+    "slug": "lets-make-dangerous-dave",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-learn-video-game-programming-in-c",
+    "title": "Learn Video Game Programming in C",
+    "slug": "learn-video-game-programming-in-c",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-coding-a-sudoku-solver-in-c",
+    "title": "Coding A Sudoku Solver in C",
+    "slug": "coding-a-sudoku-solver-in-c",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-coding-a-roguenethack-rpg-in-c",
+    "title": "Coding a Rogue/Nethack RPG in C",
+    "slug": "coding-a-roguenethack-rpg-in-c",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-on-tetris-and-reimplementation",
+    "title": "On Tetris and Reimplementation",
+    "slug": "on-tetris-and-reimplementation",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://brennan.io/2015/06/12/tetris-reimplementation/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-breakout",
+    "title": "Breakout",
+    "slug": "breakout",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://learnopengl.com/In-Practice/2D-Game/Breakout",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-beginning-game-programming-v20",
+    "title": "Beginning Game Programming v2.0",
+    "slug": "beginning-game-programming-v20",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://lazyfoo.net/tutorials/SDL/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners",
+    "title": "Tetris tutorial in C++ platform independent focused in game logic for beginners",
+    "slug": "tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "game-remaking-cavestory-in-c",
+    "title": "Remaking Cavestory in C++",
+    "slug": "remaking-cavestory-in-c",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-reconstructing-cave-story",
+    "title": "Reconstructing Cave Story",
+    "slug": "reconstructing-cave-story",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-space-invaders-from-scratch",
+    "title": "Space Invaders from Scratch",
+    "slug": "space-invaders-from-scratch",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-learn-c-by-building-a-simple-rpg",
+    "title": "Learn C# by Building a Simple RPG",
+    "slug": "learn-c-by-building-a-simple-rpg",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "game-creating-a-roguelike-game-in-c",
+    "title": "Creating a Roguelike Game in C#",
+    "slug": "creating-a-roguelike-game-in-c",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://roguesharp.wordpress.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-build-a-cwpf-rpg",
+    "title": "Build a C#/WPF RPG",
+    "slug": "build-a-cwpf-rpg",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://scottlilly.com/build-a-cwpf-rpg/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-games-with-go",
+    "title": "Games With Go",
+    "slug": "games-with-go",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-code-a-2d-game-engine-using-java-full-course-for-beginners",
+    "title": "Code a 2D Game Engine using Java - Full Course for Beginners",
+    "slug": "code-a-2d-game-engine-using-java-full-course-for-beginners",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "https://www.youtube.com/watch?v=025QFeZfeyM",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "beginner",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-3d-game-development-with-lwjgl-3",
+    "title": "3D Game Development with LWJGL 3",
+    "slug": "3d-game-development-with-lwjgl-3",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-2d-breakout-game-using-phaser",
+    "title": "2D breakout game using Phaser",
+    "slug": "2d-breakout-game-using-phaser",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-how-to-make-flappy-bird-in-html5-with-phaser",
+    "title": "How to Make Flappy Bird in HTML5 With Phaser",
+    "slug": "how-to-make-flappy-bird-in-html5-with-phaser",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://www.lessmilk.com/tutorial/flappy-bird-phaser-1",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-developing-games-with-react-redux-and-svg",
+    "title": "Developing Games with React, Redux, and SVG",
+    "slug": "developing-games-with-react-redux-and-svg",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-build-your-own-8-ball-pool-game-from-scratch",
+    "title": "Build your own 8-Ball Pool game from scratch",
+    "slug": "build-your-own-8-ball-pool-game-from-scratch",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://www.youtube.com/watch?v=aXwCrtAo4Wc",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "game-how-to-make-your-first-roguelike",
+    "title": "How to Make Your First Roguelike",
+    "slug": "how-to-make-your-first-roguelike",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-think-like-a-programmer-how-to-build-snake-using-only-javascript-html-css",
+    "title": "Think like a programmer: How to build Snake using only JavaScript, HTML & CSS",
+    "slug": "think-like-a-programmer-how-to-build-snake-using-only-javascript-html-css",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://medium.freecodecamp.org/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-bytepath",
+    "title": "BYTEPATH",
+    "slug": "bytepath",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Lua"
+    ],
+    "languageSlugs": [
+      "lua"
+    ],
+    "url": "https://github.com/SSYGEN/blog/issues/30",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-developing-games-with-pygame",
+    "title": "Developing Games With PyGame",
+    "slug": "developing-games-with-pygame",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://pythonprogramming.net/pygame-python-3-part-1-intro/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-making-games-with-python-pygame",
+    "title": "Making Games with Python & Pygame",
+    "slug": "making-games-with-python-pygame",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://inventwithpython.com/makinggames.pdf",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": [
+      "pdf"
+    ]
+  },
+  {
+    "id": "game-roguelike-tutorial-revised",
+    "title": "Roguelike Tutorial Revised",
+    "slug": "roguelike-tutorial-revised",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://rogueliketutorials.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-developing-games-with-ruby",
+    "title": "Developing Games With Ruby",
+    "slug": "developing-games-with-ruby",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://leanpub.com/developing-games-with-ruby/read",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-ruby-snake",
+    "title": "Ruby Snake",
+    "slug": "ruby-snake",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://www.diatomenterprises.com/gamedev-on-ruby-why-not/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "game-adventures-in-rust-a-basic-2d-game",
+    "title": "Adventures in Rust: A Basic 2D Game",
+    "slug": "adventures-in-rust-a-basic-2d-game",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://a5huynh.github.io/posts/2018/adventures-in-rust/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "game-roguelike-tutorial-in-rust-tcod",
+    "title": "Roguelike Tutorial in Rust + tcod",
+    "slug": "roguelike-tutorial-in-rust-tcod",
+    "category": "Game",
+    "categorySlug": "game",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://tomassedovic.github.io/roguelike-tutorial/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "git-reimplementing-git-clone-in-haskell-from-the-bottom-up",
+    "title": "Reimplementing “git clone” in Haskell from the bottom up",
+    "slug": "reimplementing-git-clone-in-haskell-from-the-bottom-up",
+    "category": "Git",
+    "categorySlug": "git",
+    "languages": [
+      "Haskell"
+    ],
+    "languageSlugs": [
+      "haskell"
+    ],
+    "url": "http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "git-gitlet",
+    "title": "Gitlet",
+    "slug": "gitlet",
+    "category": "Git",
+    "categorySlug": "git",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://gitlet.maryrosecook.com/docs/gitlet.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "git-build-git-learn-git",
+    "title": "Build GIT - Learn GIT",
+    "slug": "build-git-learn-git",
+    "category": "Git",
+    "categorySlug": "git",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://kushagra.dev/blog/build-git-learn-git/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "git-just-enough-of-a-git-client-to-create-a-repo-commit-and-push-itself-to-github",
+    "title": "Just enough of a Git client to create a repo, commit, and push itself to GitHub",
+    "slug": "just-enough-of-a-git-client-to-create-a-repo-commit-and-push-itself-to-github",
+    "category": "Git",
+    "categorySlug": "git",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://benhoyt.com/writings/pygit/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "git-write-yourself-a-git",
+    "title": "Write yourself a Git!",
+    "slug": "write-yourself-a-git",
+    "category": "Git",
+    "categorySlug": "git",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://wyag.thb.lt/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "git-ugit-learn-git-internals-by-building-git-yourself",
+    "title": "ugit: Learn Git Internals by Building Git Yourself",
+    "slug": "ugit-learn-git-internals-by-building-git-yourself",
+    "category": "Git",
+    "categorySlug": "git",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.leshenko.net/p/ugit/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "git-rebuilding-git-in-ruby",
+    "title": "Rebuilding Git in Ruby",
+    "slug": "rebuilding-git-in-ruby",
+    "category": "Git",
+    "categorySlug": "git",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://robots.thoughtbot.com/rebuilding-git-in-ruby",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "memory-allocator-malloc-is-not-magic-implementing-your-own-memory-allocator",
+    "title": "Malloc is not magic -- Implementing your own memory allocator",
+    "slug": "malloc-is-not-magic-implementing-your-own-memory-allocator",
+    "category": "Memory Allocator",
+    "categorySlug": "memory-allocator",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://medium.com/p/e0354e914402",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "network-stack-beejs-guide-to-network-programming",
+    "title": "Beej's Guide to Network Programming",
+    "slug": "beejs-guide-to-network-programming",
+    "category": "Network Stack",
+    "categorySlug": "network-stack",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://beej.us/guide/bgnet/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "network-stack-lets-code-a-tcpip-stack",
+    "title": "Let's code a TCP/IP stack",
+    "slug": "lets-code-a-tcpip-stack",
+    "category": "Network Stack",
+    "categorySlug": "network-stack",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "network-stack-build-your-own-vpnvirtual-switch",
+    "title": "Build your own VPN/Virtual Switch",
+    "slug": "build-your-own-vpnvirtual-switch",
+    "category": "Network Stack",
+    "categorySlug": "network-stack",
+    "languages": [
+      "C",
+      "Python"
+    ],
+    "languageSlugs": [
+      "c",
+      "python"
+    ],
+    "url": "https://github.com/peiyuanix/build-your-own-zerotier",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "network-stack-how-to-build-a-network-stack-in-ruby",
+    "title": "How to build a network stack in Ruby",
+    "slug": "how-to-build-a-network-stack-in-ruby",
+    "category": "Network Stack",
+    "categorySlug": "network-stack",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-neural-network-ocr",
+    "title": "Neural Network OCR",
+    "slug": "neural-network-ocr",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.codeproject.com/Articles/11285/Neural-Network-OCR",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-building-neural-networks-in-f-part-1",
+    "title": "Building Neural Networks in F#: Part 1",
+    "slug": "building-neural-networks-in-f-part-1",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "F#"
+    ],
+    "languageSlugs": [
+      "f"
+    ],
+    "url": "https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-building-neural-networks-in-f-part-2",
+    "title": "Building Neural Networks in F#: Part 2",
+    "slug": "building-neural-networks-in-f-part-2",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "F#"
+    ],
+    "languageSlugs": [
+      "f"
+    ],
+    "url": "https://medium.com/data-science/building-neural-networks-in-f-part-2-training-evaluation-5e3a68889da6",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-build-a-multilayer-perceptron-with-golang",
+    "title": "Build a multilayer perceptron with Golang",
+    "slug": "build-a-multilayer-perceptron-with-golang",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://made2591.github.io/posts/neuralnetwork",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-how-to-build-a-simple-artificial-neural-network-with-go",
+    "title": "How to build a simple artificial neural network with Go",
+    "slug": "how-to-build-a-simple-artificial-neural-network-with-go",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "neural-network-building-a-neural-net-from-scratch-in-go",
+    "title": "Building a Neural Net from Scratch in Go",
+    "slug": "building-a-neural-net-from-scratch-in-go",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://datadan.io/blog/neural-net-with-go",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-neural-networks-the-nature-of-code",
+    "title": "Neural Networks - The Nature of Code",
+    "slug": "neural-networks-the-nature-of-code",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "JavaScript",
+      "Java"
+    ],
+    "languageSlugs": [
+      "javascript",
+      "java"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "neural-network-neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron",
+    "title": "Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)",
+    "slug": "neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-a-neural-network-in-11-lines-of-python",
+    "title": "A Neural Network in 11 lines of Python",
+    "slug": "a-neural-network-in-11-lines-of-python",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://iamtrask.github.io/2015/07/12/basic-python-network/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-implement-a-neural-network-from-scratch",
+    "title": "Implement a Neural Network from Scratch",
+    "slug": "implement-a-neural-network-from-scratch",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://victorzhou.com/blog/intro-to-neural-networks/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-optical-character-recognition-ocr",
+    "title": "Optical Character Recognition (OCR)",
+    "slug": "optical-character-recognition-ocr",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://aosabook.org/en/500L/optical-character-recognition-ocr.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-traffic-signs-classification-with-a-convolutional-network",
+    "title": "Traffic signs classification with a convolutional network",
+    "slug": "traffic-signs-classification-with-a-convolutional-network",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://navoshta.com/traffic-signs-classification/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-generate-music-using-lstm-neural-network-in-keras",
+    "title": "Generate Music using LSTM Neural Network in Keras",
+    "slug": "generate-music-using-lstm-neural-network-in-keras",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-an-introduction-to-convolutional-neural-networks",
+    "title": "An Introduction to Convolutional Neural Networks",
+    "slug": "an-introduction-to-convolutional-neural-networks",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://victorzhou.com/blog/intro-to-cnns-part-1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-neural-networks-zero-to-hero",
+    "title": "Neural Networks: Zero to Hero",
+    "slug": "neural-networks-zero-to-hero",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "neural-network-slowtorch-implementation-of-pytorch-from-the-ground-up-in-100-pure-python",
+    "title": "SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python",
+    "slug": "slowtorch-implementation-of-pytorch-from-the-ground-up-in-100-pure-python",
+    "category": "Neural Network",
+    "categorySlug": "neural-network",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://github.com/xames3/slowtorch",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-writing-a-tiny-x86-bootloader",
+    "title": "Writing a Tiny x86 Bootloader",
+    "slug": "writing-a-tiny-x86-bootloader",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "Assembly"
+    ],
+    "languageSlugs": [
+      "assembly"
+    ],
+    "url": "http://joebergeron.io/posts/post_two.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-baking-pi-operating-systems-development",
+    "title": "Baking Pi – Operating Systems Development",
+    "slug": "baking-pi-operating-systems-development",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "Assembly"
+    ],
+    "languageSlugs": [
+      "assembly"
+    ],
+    "url": "http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-building-a-software-and-hardware-stack-for-a-simple-computer-from-scratch",
+    "title": "Building a software and hardware stack for a simple computer from scratch",
+    "slug": "building-a-software-and-hardware-stack-for-a-simple-computer-from-scratch",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "beginner",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "operating-system-operating-systems-from-0-to-1",
+    "title": "Operating Systems: From 0 to 1",
+    "slug": "operating-systems-from-0-to-1",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://tuhdo.github.io/os01/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-the-little-book-about-os-development",
+    "title": "The little book about OS development",
+    "slug": "the-little-book-about-os-development",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://littleosbook.github.io/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-roll-your-own-toy-unix-clone-os",
+    "title": "Roll your own toy UNIX-clone OS",
+    "slug": "roll-your-own-toy-unix-clone-os",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://jamesmolloy.co.uk/tutorial_html/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-kernel-101-lets-write-a-kernel",
+    "title": "Kernel 101 – Let’s write a Kernel",
+    "slug": "kernel-101-lets-write-a-kernel",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-kernel-201-lets-write-a-kernel-with-keyboard-and-screen-support",
+    "title": "Kernel 201 – Let’s write a Kernel with keyboard and screen support",
+    "slug": "kernel-201-lets-write-a-kernel-with-keyboard-and-screen-support",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-build-a-minimal-multi-tasking-kernel-for-arm-from-scratch",
+    "title": "Build a minimal multi-tasking kernel for ARM from scratch",
+    "slug": "build-a-minimal-multi-tasking-kernel-for-arm-from-scratch",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/jserv/mini-arm-os",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-how-to-create-an-os-from-scratch",
+    "title": "How to create an OS from scratch",
+    "slug": "how-to-create-an-os-from-scratch",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/cfenollosa/os-tutorial",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-malloc-tutorial",
+    "title": "Malloc tutorial",
+    "slug": "malloc-tutorial",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://danluu.com/malloc-tutorial/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-hack-the-virtual-memory",
+    "title": "Hack the virtual memory",
+    "slug": "hack-the-virtual-memory",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-learning-operating-system-development-using-linux-kernel-and-raspberry-pi",
+    "title": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "slug": "learning-operating-system-development-using-linux-kernel-and-raspberry-pi",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-operating-systems-development-for-dummies",
+    "title": "Operating systems development for Dummies",
+    "slug": "operating-systems-development-for-dummies",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-write-your-own-operating-system",
+    "title": "Write your own Operating System",
+    "slug": "write-your-own-operating-system",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "operating-system-writing-a-bootloader",
+    "title": "Writing a Bootloader",
+    "slug": "writing-a-bootloader",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://3zanders.co.uk/2017/10/13/writing-a-bootloader/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-writing-an-os-in-rust",
+    "title": "Writing an OS in Rust",
+    "slug": "writing-an-os-in-rust",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://os.phil-opp.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-add-risc-v-rust-operating-system-tutorial",
+    "title": "Add RISC-V Rust Operating System Tutorial",
+    "slug": "add-risc-v-rust-operating-system-tutorial",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://osblog.stephenmarz.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "operating-system-linux-from-scratch",
+    "title": "Linux from scratch",
+    "slug": "linux-from-scratch",
+    "category": "Operating System",
+    "categorySlug": "operating-system",
+    "languages": [
+      "(any)"
+    ],
+    "languageSlugs": [
+      "any"
+    ],
+    "url": "https://linuxfromscratch.org/lfs",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "physics-engine-video-game-physics-tutorial",
+    "title": "Video Game Physics Tutorial",
+    "slug": "video-game-physics-tutorial",
+    "category": "Physics Engine",
+    "categorySlug": "physics-engine",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "physics-engine-game-physics-series-by-allen-chou",
+    "title": "Game physics series by Allen Chou",
+    "slug": "game-physics-series-by-allen-chou",
+    "category": "Physics Engine",
+    "categorySlug": "physics-engine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://allenchou.net/game-physics-series/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "physics-engine-how-to-create-a-custom-physics-engine",
+    "title": "How to Create a Custom Physics Engine",
+    "slug": "how-to-create-a-custom-physics-engine",
+    "category": "Physics Engine",
+    "categorySlug": "physics-engine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "physics-engine-3d-physics-engine-tutorial",
+    "title": "3D Physics Engine Tutorial",
+    "slug": "3d-physics-engine-tutorial",
+    "category": "Physics Engine",
+    "categorySlug": "physics-engine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "physics-engine-how-physics-engines-work",
+    "title": "How Physics Engines Work",
+    "slug": "how-physics-engines-work",
+    "category": "Physics Engine",
+    "categorySlug": "physics-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://buildnewgames.com/gamephysics/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "physics-engine-broad-phase-collision-detection-using-spatial-partitioning",
+    "title": "Broad Phase Collision Detection Using Spatial Partitioning",
+    "slug": "broad-phase-collision-detection-using-spatial-partitioning",
+    "category": "Physics Engine",
+    "categorySlug": "physics-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://buildnewgames.com/broad-phase-collision-detection/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "physics-engine-build-a-simple-2d-physics-engine-for-javascript-games",
+    "title": "Build a simple 2D physics engine for JavaScript games",
+    "slug": "build-a-simple-2d-physics-engine-for-javascript-games",
+    "category": "Physics Engine",
+    "categorySlug": "physics-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "processor-from-blinker-to-risc-v",
+    "title": "From Blinker to RISC-V",
+    "slug": "from-blinker-to-risc-v",
+    "category": "Processor",
+    "categorySlug": "processor",
+    "languages": [
+      "Verilog"
+    ],
+    "languageSlugs": [
+      "verilog"
+    ],
+    "url": "https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-mal-make-a-lisp",
+    "title": "mal - Make a Lisp",
+    "slug": "mal-make-a-lisp",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "(any)"
+    ],
+    "languageSlugs": [
+      "any"
+    ],
+    "url": "https://github.com/kanaka/mal#mal---make-a-lisp",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-jonesforth",
+    "title": "Jonesforth",
+    "slug": "jonesforth",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Assembly"
+    ],
+    "languageSlugs": [
+      "assembly"
+    ],
+    "url": "https://github.com/nornagon/jonesforth/blob/master/jonesforth.S",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-babys-first-garbage-collector",
+    "title": "Baby's First Garbage Collector",
+    "slug": "babys-first-garbage-collector",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-build-your-own-lisp-learn-c-and-build-your-own-programming-language-in-1000-lines-of-code",
+    "title": "Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code",
+    "slug": "build-your-own-lisp-learn-c-and-build-your-own-programming-language-in-1000-lines-of-code",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.buildyourownlisp.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-writing-a-simple-garbage-collector-in-c",
+    "title": "Writing a Simple Garbage Collector in C",
+    "slug": "writing-a-simple-garbage-collector-in-c",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://maplant.com/gc.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "programming-language-c-interpreter-that-interprets-itself",
+    "title": "C interpreter that interprets itself.",
+    "slug": "c-interpreter-that-interprets-itself",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/lotabout/write-a-C-interpreter",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-a-c-x86-version-of-the-lets-build-a-compiler-by-jack-crenshaw",
+    "title": "A C & x86 version of the \"Let's Build a Compiler\" by Jack Crenshaw",
+    "slug": "a-c-x86-version-of-the-lets-build-a-compiler-by-jack-crenshaw",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/lotabout/Let-s-build-a-compiler",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-a-journey-explaining-how-to-build-a-compiler-from-scratch",
+    "title": "A journey explaining how to build a compiler from scratch",
+    "slug": "a-journey-explaining-how-to-build-a-compiler-from-scratch",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/DoctorWkt/acwj",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-writing-your-own-toy-compiler-using-flex",
+    "title": "Writing Your Own Toy Compiler Using Flex",
+    "slug": "writing-your-own-toy-compiler-using-flex",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-how-to-create-a-compiler",
+    "title": "How to Create a Compiler",
+    "slug": "how-to-create-a-compiler",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/watch?v=eF9qWbuQLuw",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "programming-language-kaleidoscope-implementing-a-language-with-llvm",
+    "title": "Kaleidoscope: Implementing a Language with LLVM",
+    "slug": "kaleidoscope-implementing-a-language-with-llvm",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-understanding-parser-combinators",
+    "title": "Understanding Parser Combinators",
+    "slug": "understanding-parser-combinators",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "F#"
+    ],
+    "languageSlugs": [
+      "f"
+    ],
+    "url": "https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-demystifying-compilers-by-writing-your-own",
+    "title": "Demystifying compilers by writing your own",
+    "slug": "demystifying-compilers-by-writing-your-own",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Elixir"
+    ],
+    "languageSlugs": [
+      "elixir"
+    ],
+    "url": "https://www.youtube.com/watch?v=zMJYoYwOCd4",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "programming-language-the-super-tiny-compiler",
+    "title": "The Super Tiny Compiler",
+    "slug": "the-super-tiny-compiler",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://github.com/hazbo/the-super-tiny-compiler",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-lexical-scanning-in-go",
+    "title": "Lexical Scanning in Go",
+    "slug": "lexical-scanning-in-go",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://www.youtube.com/watch?v=HxaD_trXwRE",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "programming-language-lets-build-a-compiler",
+    "title": "Let's Build a Compiler",
+    "slug": "lets-build-a-compiler",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Haskell"
+    ],
+    "languageSlugs": [
+      "haskell"
+    ],
+    "url": "https://g-ford.github.io/cradle/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-write-you-a-haskell",
+    "title": "Write You a Haskell",
+    "slug": "write-you-a-haskell",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Haskell"
+    ],
+    "languageSlugs": [
+      "haskell"
+    ],
+    "url": "http://dev.stephendiehl.com/fun/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-write-yourself-a-scheme-in-48-hours",
+    "title": "Write Yourself a Scheme in 48 Hours",
+    "slug": "write-yourself-a-scheme-in-48-hours",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Haskell"
+    ],
+    "languageSlugs": [
+      "haskell"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-write-you-a-scheme",
+    "title": "Write You A Scheme",
+    "slug": "write-you-a-scheme",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Haskell"
+    ],
+    "languageSlugs": [
+      "haskell"
+    ],
+    "url": "https://www.wespiser.com/writings/wyas/home.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-crafting-interpreters-a-handbook-for-making-programming-languages",
+    "title": "Crafting interpreters: A handbook for making programming languages",
+    "slug": "crafting-interpreters-a-handbook-for-making-programming-languages",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "http://www.craftinginterpreters.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-creating-jvm-language",
+    "title": "Creating JVM Language",
+    "slug": "creating-jvm-language",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "http://jakubdziworski.github.io/categories.html#Enkel-ref",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-the-super-tiny-compiler",
+    "title": "The Super Tiny Compiler",
+    "slug": "the-super-tiny-compiler",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-the-super-tiny-interpreter",
+    "title": "The Super Tiny Interpreter",
+    "slug": "the-super-tiny-interpreter",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/keyanzhang/the-super-tiny-interpreter",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-little-lisp-interpreter",
+    "title": "Little Lisp interpreter",
+    "slug": "little-lisp-interpreter",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://maryrosecook.com/blog/post/little-lisp-interpreter",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-how-to-implement-a-programming-language-in-javascript",
+    "title": "How to implement a programming language in JavaScript",
+    "slug": "how-to-implement-a-programming-language-in-javascript",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://lisperator.net/pltut/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-lets-go-write-a-lisp",
+    "title": "Let’s go write a Lisp",
+    "slug": "lets-go-write-a-lisp",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://idiocy.org/lets-go-write-a-lisp/part-1.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-writing-a-c-compiler",
+    "title": "Writing a C Compiler",
+    "slug": "writing-a-c-compiler",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "OCaml"
+    ],
+    "languageSlugs": [
+      "ocaml"
+    ],
+    "url": "https://norasandler.com/2017/11/29/Write-a-Compiler.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-writing-a-lisp-the-series",
+    "title": "Writing a Lisp, the series",
+    "slug": "writing-a-lisp-the-series",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "OCaml"
+    ],
+    "languageSlugs": [
+      "ocaml"
+    ],
+    "url": "https://bernsteinbear.com/blog/lisp/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-lets-build-a-compiler",
+    "title": "Let's Build a Compiler",
+    "slug": "lets-build-a-compiler",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Pascal"
+    ],
+    "languageSlugs": [
+      "pascal"
+    ],
+    "url": "https://compilers.iecc.com/crenshaw/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-a-python-interpreter-written-in-python",
+    "title": "A Python Interpreter Written in Python",
+    "slug": "a-python-interpreter-written-in-python",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-lisppy-make-your-own-lisp-interpreter",
+    "title": "lisp.py: Make your own Lisp interpreter",
+    "slug": "lisppy-make-your-own-lisp-interpreter",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://khamidou.com/compilers/lisp.py/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-how-to-write-a-lisp-interpreter-in-python",
+    "title": "How to Write a Lisp Interpreter in Python",
+    "slug": "how-to-write-a-lisp-interpreter-in-python",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://norvig.com/lispy.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-lets-build-a-simple-interpreter",
+    "title": "Let’s Build A Simple Interpreter",
+    "slug": "lets-build-a-simple-interpreter",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://ruslanspivak.com/lsbasi-part1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "programming-language-make-your-own-simple-interpreted-programming-language",
+    "title": "Make Your Own Simple Interpreted Programming Language",
+    "slug": "make-your-own-simple-interpreted-programming-language",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.youtube.com/watch?v=dj9CBS3ikGA&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD&index=1",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "beginner",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "programming-language-from-source-code-to-machine-code-build-your-own-compiler-from-scratch",
+    "title": "From Source Code To Machine Code: Build Your Own Compiler From Scratch",
+    "slug": "from-source-code-to-machine-code-build-your-own-compiler-from-scratch",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://build-your-own.org/compiler/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-beautiful-racket-how-to-make-your-own-programming-languages-with-racket",
+    "title": "Beautiful Racket: How to make your own programming languages with Racket",
+    "slug": "beautiful-racket-how-to-make-your-own-programming-languages-with-racket",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Racket"
+    ],
+    "languageSlugs": [
+      "racket"
+    ],
+    "url": "https://beautifulracket.com/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-a-compiler-from-scratch",
+    "title": "A Compiler From Scratch",
+    "slug": "a-compiler-from-scratch",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-markdown-compiler-from-scratch-in-ruby",
+    "title": "Markdown compiler from scratch in Ruby",
+    "slug": "markdown-compiler-from-scratch-in-ruby",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-learning-parser-combinators-with-rust",
+    "title": "Learning Parser Combinators With Rust",
+    "slug": "learning-parser-combinators-with-rust",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://bodil.lol/parser-combinators/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-building-a-lisp-from-scratch-with-swift",
+    "title": "Building a LISP from scratch with Swift",
+    "slug": "building-a-lisp-from-scratch-with-swift",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "Swift"
+    ],
+    "languageSlugs": [
+      "swift"
+    ],
+    "url": "https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "programming-language-build-your-own-webassembly-compiler",
+    "title": "Build your own WebAssembly Compiler",
+    "slug": "build-your-own-webassembly-compiler",
+    "category": "Programming Language",
+    "categorySlug": "programming-language",
+    "languages": [
+      "TypeScript"
+    ],
+    "languageSlugs": [
+      "typescript"
+    ],
+    "url": "https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-a-regular-expression-matcher",
+    "title": "A Regular Expression Matcher",
+    "slug": "a-regular-expression-matcher",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-regular-expression-matching-can-be-simple-and-fast",
+    "title": "Regular Expression Matching Can Be Simple And Fast",
+    "slug": "regular-expression-matching-can-be-simple-and-fast",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://swtch.com/~rsc/regexp/regexp1.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-how-to-build-a-regex-engine-from-scratch",
+    "title": "How to build a regex engine from scratch",
+    "slug": "how-to-build-a-regex-engine-from-scratch",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://rhaeguard.github.io/posts/regex",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-build-a-regex-engine-in-less-than-40-lines-of-code",
+    "title": "Build a Regex Engine in Less than 40 Lines of Code",
+    "slug": "build-a-regex-engine-in-less-than-40-lines-of-code",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://nickdrane.com/build-your-own-regex/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-how-to-implement-regular-expressions-in-functional-javascript-using-derivatives",
+    "title": "How to implement regular expressions in functional javascript using derivatives",
+    "slug": "how-to-implement-regular-expressions-in-functional-javascript-using-derivatives",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://dpk.io/dregs/toydregs",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-implementing-a-regular-expression-engine",
+    "title": "Implementing a Regular Expression Engine",
+    "slug": "implementing-a-regular-expression-engine",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-how-regexes-work",
+    "title": "How Regexes Work",
+    "slug": "how-regexes-work",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "Perl"
+    ],
+    "languageSlugs": [
+      "perl"
+    ],
+    "url": "https://perl.plover.com/Regex/article.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-build-your-own-regular-expression-engines-backtracking-nfa-dfa",
+    "title": "Build Your Own Regular Expression Engines: Backtracking, NFA, DFA",
+    "slug": "build-your-own-regular-expression-engines-backtracking-nfa-dfa",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://build-your-own.org/b2a/r0_intro",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "regex-engine-no-magic-regular-expressions",
+    "title": "No Magic: Regular Expressions",
+    "slug": "no-magic-regular-expressions",
+    "category": "Regex Engine",
+    "categorySlug": "regex-engine",
+    "languages": [
+      "Scala"
+    ],
+    "languageSlugs": [
+      "scala"
+    ],
+    "url": "https://rcoh.svbtle.com/no-magic-regular-expressions",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "search-engine-a-search-engine-in-css",
+    "title": "A search engine in CSS",
+    "slug": "a-search-engine-in-css",
+    "category": "Search Engine",
+    "categorySlug": "search-engine",
+    "languages": [
+      "CSS"
+    ],
+    "languageSlugs": [
+      "css"
+    ],
+    "url": "https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "search-engine-building-a-search-engine-using-redis-and-redis-py",
+    "title": "Building a search engine using Redis and redis-py",
+    "slug": "building-a-search-engine-using-redis-and-redis-py",
+    "category": "Search Engine",
+    "categorySlug": "search-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "search-engine-building-a-vector-space-indexing-engine-in-python",
+    "title": "Building a Vector Space Indexing Engine in Python",
+    "slug": "building-a-vector-space-indexing-engine-in-python",
+    "category": "Search Engine",
+    "categorySlug": "search-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://boyter.org/2010/08/build-vector-space-search-engine-python/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "search-engine-building-a-python-based-search-engine",
+    "title": "Building A Python-Based Search Engine",
+    "slug": "building-a-python-based-search-engine",
+    "category": "Search Engine",
+    "categorySlug": "search-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.youtube.com/watch?v=cY7pE7vX6MU",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "search-engine-making-text-search-learn-from-feedback",
+    "title": "Making text search learn from feedback",
+    "slug": "making-text-search-learn-from-feedback",
+    "category": "Search Engine",
+    "categorySlug": "search-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "search-engine-finding-important-words-in-text-using-tf-idf",
+    "title": "Finding Important Words in Text Using TF-IDF",
+    "slug": "finding-important-words-in-text-using-tf-idf",
+    "category": "Search Engine",
+    "categorySlug": "search-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://stevenloria.com/tf-idf/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "shell-tutorial-write-a-shell-in-c",
+    "title": "Tutorial - Write a Shell in C",
+    "slug": "tutorial-write-a-shell-in-c",
+    "category": "Shell",
+    "categorySlug": "shell",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://brennan.io/2015/01/16/write-a-shell-in-c/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "shell-lets-build-a-shell",
+    "title": "Let's build a shell!",
+    "slug": "lets-build-a-shell",
+    "category": "Shell",
+    "categorySlug": "shell",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/kamalmarhubi/shell-workshop",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "shell-writing-a-unix-shell",
+    "title": "Writing a UNIX Shell",
+    "slug": "writing-a-unix-shell",
+    "category": "Shell",
+    "categorySlug": "shell",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "shell-build-your-own-shell",
+    "title": "Build Your Own Shell",
+    "slug": "build-your-own-shell",
+    "category": "Shell",
+    "categorySlug": "shell",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/tokenrove/build-your-own-shell",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "shell-write-a-shell-in-c",
+    "title": "Write a shell in C",
+    "slug": "write-a-shell-in-c",
+    "category": "Shell",
+    "categorySlug": "shell",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://danishpraka.sh/posts/write-a-shell/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "shell-writing-a-simple-shell-in-go",
+    "title": "Writing a simple shell in Go",
+    "slug": "writing-a-simple-shell-in-go",
+    "category": "Shell",
+    "categorySlug": "shell",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "shell-build-your-own-shell-using-rust",
+    "title": "Build Your Own Shell using Rust",
+    "slug": "build-your-own-shell-using-rust",
+    "category": "Shell",
+    "categorySlug": "shell",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://www.joshmcguigan.com/blog/build-your-own-shell-rust/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "template-engine-javascript-template-engine-in-just-20-lines",
+    "title": "JavaScript template engine in just 20 lines",
+    "slug": "javascript-template-engine-in-just-20-lines",
+    "category": "Template Engine",
+    "categorySlug": "template-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "template-engine-understanding-javascript-micro-templating",
+    "title": "Understanding JavaScript Micro-Templating",
+    "slug": "understanding-javascript-micro-templating",
+    "category": "Template Engine",
+    "categorySlug": "template-engine",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "template-engine-approach-building-a-toy-template-engine-in-python",
+    "title": "Approach: Building a toy template engine in Python",
+    "slug": "approach-building-a-toy-template-engine-in-python",
+    "category": "Template Engine",
+    "categorySlug": "template-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://alexmic.net/building-a-template-engine/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "template-engine-a-template-engine",
+    "title": "A Template Engine",
+    "slug": "a-template-engine",
+    "category": "Template Engine",
+    "categorySlug": "template-engine",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://aosabook.org/en/500L/a-template-engine.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "template-engine-how-to-write-a-template-engine-in-less-than-30-lines-of-code",
+    "title": "How to write a template engine in less than 30 lines of code",
+    "slug": "how-to-write-a-template-engine-in-less-than-30-lines-of-code",
+    "category": "Template Engine",
+    "categorySlug": "template-engine",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "http://bits.citrusbyte.com/how-to-write-a-template-library/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "text-editor-build-your-own-text-editor",
+    "title": "Build Your Own Text Editor",
+    "slug": "build-your-own-text-editor",
+    "category": "Text Editor",
+    "categorySlug": "text-editor",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://viewsourcecode.org/snaptoken/kilo/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "text-editor-designing-a-simple-text-editor",
+    "title": "Designing a Simple Text Editor",
+    "slug": "designing-a-simple-text-editor",
+    "category": "Text Editor",
+    "categorySlug": "text-editor",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.fltk.org/doc-1.1/editor.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "text-editor-python-tutorial-make-your-own-text-editor",
+    "title": "Python Tutorial: Make Your Own Text Editor",
+    "slug": "python-tutorial-make-your-own-text-editor",
+    "category": "Text Editor",
+    "categorySlug": "text-editor",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.youtube.com/watch?v=xqDonHEYPgA",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "text-editor-create-a-simple-python-text-editor",
+    "title": "Create a Simple Python Text Editor!",
+    "slug": "create-a-simple-python-text-editor",
+    "category": "Text Editor",
+    "categorySlug": "text-editor",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "text-editor-build-a-collaborative-text-editor-using-rails",
+    "title": "Build a Collaborative Text Editor Using Rails",
+    "slug": "build-a-collaborative-text-editor-using-rails",
+    "category": "Text Editor",
+    "categorySlug": "text-editor",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://blog.aha.io/text-editor/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "text-editor-hecto-build-your-own-text-editor-in-rust_",
+    "title": "Hecto: Build your own text editor in Rust_",
+    "slug": "hecto-build-your-own-text-editor-in-rust_",
+    "category": "Text Editor",
+    "categorySlug": "text-editor",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://www.flenker.blog/hecto/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "visual-recognition-system-developing-a-license-plate-recognition-system-with-machine-learning-in-python",
+    "title": "Developing a License Plate Recognition System with Machine Learning in Python",
+    "slug": "developing-a-license-plate-recognition-system-with-machine-learning-in-python",
+    "category": "Visual Recognition System",
+    "categorySlug": "visual-recognition-system",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "visual-recognition-system-building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow",
+    "title": "Building a Facial Recognition Pipeline with Deep Learning in Tensorflow",
+    "slug": "building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow",
+    "category": "Visual Recognition System",
+    "categorySlug": "visual-recognition-system",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "voxel-engine-lets-make-a-voxel-engine",
+    "title": "Let's Make a Voxel Engine",
+    "slug": "lets-make-a-voxel-engine",
+    "category": "Voxel Engine",
+    "categorySlug": "voxel-engine",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://sites.google.com/site/letsmakeavoxelengine/home",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-browser-lets-build-a-browser-engine",
+    "title": "Let's build a browser engine",
+    "slug": "lets-build-a-browser-engine",
+    "category": "Web Browser",
+    "categorySlug": "web-browser",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-browser-browser-engineering",
+    "title": "Browser Engineering",
+    "slug": "browser-engineering",
+    "category": "Web Browser",
+    "categorySlug": "web-browser",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://browser.engineering",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-web-server-from-scratch",
+    "title": "Writing a Web Server from Scratch",
+    "slug": "writing-a-web-server-from-scratch",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-your-own-web-server-from-scratch-in-javascript",
+    "title": "Build Your Own Web Server From Scratch In JavaScript",
+    "slug": "build-your-own-web-server-from-scratch-in-javascript",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://build-your-own.org/webserver/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-lets-code-a-web-server-from-scratch-with-nodejs-streams",
+    "title": "Let's code a web server from scratch with NodeJS Streams",
+    "slug": "lets-code-a-web-server-from-scratch-with-nodejs-streams",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-lets-build-express",
+    "title": "lets-build-express",
+    "slug": "lets-build-express",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://github.com/antoaravinth/lets-build-express",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-webserver-in-pure-php",
+    "title": "Writing a webserver in pure PHP",
+    "slug": "writing-a-webserver-in-pure-php",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "PHP"
+    ],
+    "languageSlugs": [
+      "php"
+    ],
+    "url": "http://station.clancats.com/writing-a-webserver-in-pure-php/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-a-simple-web-server",
+    "title": "A Simple Web Server",
+    "slug": "a-simple-web-server",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://aosabook.org/en/500L/a-simple-web-server.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-lets-build-a-web-server",
+    "title": "Let’s Build A Web Server.",
+    "slug": "lets-build-a-web-server",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://ruslanspivak.com/lsbaws-part1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-web-application-from-scratch",
+    "title": "Web application from scratch",
+    "slug": "web-application-from-scratch",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://defn.io/2018/02/25/web-app-from-scratch-01/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-building-a-basic-http-server-from-scratch-in-python",
+    "title": "Building a basic HTTP Server from scratch in Python",
+    "slug": "building-a-basic-http-server-from-scratch-in-python",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://joaoventura.net/blog/2017/python-webserver/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-implementing-a-restful-web-api-with-python-flask",
+    "title": "Implementing a RESTful Web API with Python & Flask",
+    "slug": "implementing-a-restful-web-api-with-python-flask",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://blog.luisrei.com/articles/flaskrest.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-building-a-simple-websockets-server-from-scratch-in-ruby",
+    "title": "Building a simple websockets server from scratch in Ruby",
+    "slug": "building-a-simple-websockets-server-from-scratch-in-ruby",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-from-nand-to-tetris-building-a-modern-computer-from-first-principles",
+    "title": "From NAND to Tetris: Building a Modern Computer From First Principles",
+    "slug": "from-nand-to-tetris-building-a-modern-computer-from-first-principles",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "(any)"
+    ],
+    "languageSlugs": [
+      "any"
+    ],
+    "url": "http://nand2tetris.org/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-your-own-x-vibe-coding-byox-style-tutorials-adapted-for-vibe-coding",
+    "title": "build-your-own-x-vibe-coding: BYOX-style tutorials adapted for vibe coding",
+    "slug": "build-your-own-x-vibe-coding-byox-style-tutorials-adapted-for-vibe-coding",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "(any)"
+    ],
+    "languageSlugs": [
+      "any"
+    ],
+    "url": "https://github.com/inFaaa/build-your-own-x-vibe-coding",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-the-same-origin-policy",
+    "title": "The Same-Origin Policy",
+    "slug": "the-same-origin-policy",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Alloy"
+    ],
+    "languageSlugs": [
+      "alloy"
+    ],
+    "url": "http://aosabook.org/en/500L/the-same-origin-policy.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-how-to-write-a-video-player-in-less-than-1000-lines",
+    "title": "How to Write a Video Player in Less Than 1000 Lines",
+    "slug": "how-to-write-a-video-player-in-less-than-1000-lines",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://dranger.com/ffmpeg/ffmpeg.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-learn-how-to-write-a-hash-table-in-c",
+    "title": "Learn how to write a hash table in C",
+    "slug": "learn-how-to-write-a-hash-table-in-c",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/jamesroutley/write-a-hash-table",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-the-very-basics-of-a-terminal-emulator",
+    "title": "The very basics of a terminal emulator",
+    "slug": "the-very-basics-of-a-terminal-emulator",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-write-a-system-call",
+    "title": "Write a System Call",
+    "slug": "write-a-system-call",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://brennan.io/2016/11/14/kernel-dev-ep3/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-sol-an-mqtt-broker-from-scratch",
+    "title": "Sol - An MQTT broker from scratch",
+    "slug": "sol-an-mqtt-broker-from-scratch",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://codepr.github.io/posts/sol-mqtt-broker",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-your-own-vr-headset-for-200",
+    "title": "Build your own VR headset for $200",
+    "slug": "build-your-own-vr-headset-for-200",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://github.com/relativty/Relativ",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-how-x-window-managers-work-and-how-to-write-one",
+    "title": "How X Window Managers work and how to write one",
+    "slug": "how-x-window-managers-work-and-how-to-write-one",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-linux-debugger",
+    "title": "Writing a Linux Debugger",
+    "slug": "writing-a-linux-debugger",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-how-a-64k-intro-is-made",
+    "title": "How a 64k intro is made",
+    "slug": "how-a-64k-intro-is-made",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "http://www.lofibucket.com/articles/64k_intro.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-make-your-own-game-engine",
+    "title": "Make your own Game Engine",
+    "slug": "make-your-own-game-engine",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C++"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-c-networking-create-a-tcp-chater-server-tcp-games-udp-pong-and-more",
+    "title": "C# Networking: Create a TCP chater server, TCP games, UDP Pong and more",
+    "slug": "c-networking-create-a-tcp-chater-server-tcp-games-udp-pong-and-more",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://16bpp.net/tutorials/csharp-networking",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-loading-and-rendering-3d-skeletal-animations-from-scratch-in-c-and-glsl",
+    "title": "Loading and rendering 3D skeletal animations from scratch in C# and GLSL",
+    "slug": "loading-and-rendering-3d-skeletal-animations-from-scratch-in-c-and-glsl",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "C#"
+    ],
+    "languageSlugs": [
+      "c"
+    ],
+    "url": "https://www.seanjoflynn.com/research/skeletal-animation.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-building-a-spell-checker",
+    "title": "Building a spell-checker",
+    "slug": "building-a-spell-checker",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Clojure"
+    ],
+    "languageSlugs": [
+      "clojure"
+    ],
+    "url": "https://bernhardwenzel.com/articles/clojure-spellchecker/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-a-simple-terminal-emulator-in-100-lines-of-golang",
+    "title": "Build A Simple Terminal Emulator In 100 Lines of Golang",
+    "slug": "build-a-simple-terminal-emulator-in-100-lines-of-golang",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-lets-create-a-simple-load-balancer",
+    "title": "Let's Create a Simple Load Balancer",
+    "slug": "lets-create-a-simple-load-balancer",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://kasvith.me/posts/lets-create-a-simple-lb-go/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-video-encoding-from-scratch",
+    "title": "Video Encoding from Scratch",
+    "slug": "video-encoding-from-scratch",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Go"
+    ],
+    "languageSlugs": [
+      "go"
+    ],
+    "url": "https://github.com/kevmo314/codec-from-scratch",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-how-to-build-an-android-reddit-app",
+    "title": "How to Build an Android Reddit App",
+    "slug": "how-to-build-an-android-reddit-app",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Java"
+    ],
+    "languageSlugs": [
+      "java"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "web-server-build-your-own-module-bundler-minipack",
+    "title": "Build Your Own Module Bundler - Minipack",
+    "slug": "build-your-own-module-bundler-minipack",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/ronami/minipack",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-learn-javascript-promises-by-building-a-promise-from-scratch",
+    "title": "Learn JavaScript Promises by Building a Promise from Scratch",
+    "slug": "learn-javascript-promises-by-building-a-promise-from-scratch",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-implementing-promises-from-scratch-tdd-way",
+    "title": "Implementing promises from scratch (TDD way)",
+    "slug": "implementing-promises-from-scratch-tdd-way",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://www.mauriciopoppe.com/notes/computer-science/computation/promises/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-implement-your-own-call-apply-and-bind-method-in-javascript",
+    "title": "Implement your own — call(), apply() and bind() method in JavaScript",
+    "slug": "implement-your-own-call-apply-and-bind-method-in-javascript",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-javascript-algorithms-and-data-structures",
+    "title": "JavaScript Algorithms and Data Structures",
+    "slug": "javascript-algorithms-and-data-structures",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-a-ride-hailing-app-with-react-native",
+    "title": "Build a ride hailing app with React Native",
+    "slug": "build-a-ride-hailing-app-with-react-native",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://pusher.com/tutorials/ride-hailing-react-native",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-your-own-adblocker-in-literally-10-minutes",
+    "title": "Build Your Own AdBlocker in (Literally) 10 Minutes",
+    "slug": "build-your-own-adblocker-in-literally-10-minutes",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "JavaScript"
+    ],
+    "languageSlugs": [
+      "javascript"
+    ],
+    "url": "https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-your-own-cache",
+    "title": "Build Your Own Cache",
+    "slug": "build-your-own-cache",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Kotlin"
+    ],
+    "languageSlugs": [
+      "kotlin"
+    ],
+    "url": "https://github.com/kezhenxu94/cache-lite",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-building-a-cdn-from-scratch-to-learn-about-cdn",
+    "title": "Building a CDN from Scratch to Learn about CDN",
+    "slug": "building-a-cdn-from-scratch-to-learn-about-cdn",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Lua"
+    ],
+    "languageSlugs": [
+      "lua"
+    ],
+    "url": "https://github.com/leandromoreira/cdn-up-and-running",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-redis-protocol-parser",
+    "title": "Writing a Redis Protocol Parser",
+    "slug": "writing-a-redis-protocol-parser",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day12_resp.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-build-system",
+    "title": "Writing a Build system",
+    "slug": "writing-a-build-system",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day11_buildsystem.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-minitest-framework",
+    "title": "Writing a MiniTest Framework",
+    "slug": "writing-a-minitest-framework",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day08_minitest.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-dmidecode-parser",
+    "title": "Writing a DMIDecode Parser",
+    "slug": "writing-a-dmidecode-parser",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day01_dmidecode.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-ini-parser",
+    "title": "Writing a INI Parser",
+    "slug": "writing-a-ini-parser",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day05_iniparser.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-link-checker",
+    "title": "Writing a Link Checker",
+    "slug": "writing-a-link-checker",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day04_asynclinkschecker.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-a-url-shortening-service",
+    "title": "Writing a URL Shortening Service",
+    "slug": "writing-a-url-shortening-service",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Nim"
+    ],
+    "languageSlugs": [
+      "nim"
+    ],
+    "url": "https://xmonader.github.io/nimdays/day07_shorturl.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-a-static-site-generator-in-40-lines-with-nodejs",
+    "title": "Build a static site generator in 40 lines with Node.js",
+    "slug": "build-a-static-site-generator-in-40-lines-with-nodejs",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://www.webdevdrops.com/en/build-static-site-generator-nodejs-8969ebe34b22/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-building-a-simple-single-sign-onsso-server-and-solution-from-scratch-in-nodejs",
+    "title": "Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js.",
+    "slug": "building-a-simple-single-sign-onsso-server-and-solution-from-scratch-in-nodejs",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-how-to-create-a-real-world-node-cli-app-with-node",
+    "title": "How to create a real-world Node CLI app with Node",
+    "slug": "how-to-create-a-real-world-node-cli-app-with-node",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-a-dns-server-in-nodejs",
+    "title": "Build a DNS Server in Node.js",
+    "slug": "build-a-dns-server-in-nodejs",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://engineerhead.github.io/dns-server/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-a-synchronization-engine-with-nodejs-and-yjs",
+    "title": "Build a Synchronization Engine with Node.js and Y.js",
+    "slug": "build-a-synchronization-engine-with-nodejs-and-yjs",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Node.js"
+    ],
+    "languageSlugs": [
+      "nodejs"
+    ],
+    "url": "https://greenvitriol.com/posts/sync-engine-for-everyone",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-write-your-own-mvc-from-scratch-in-php_",
+    "title": "Write your own MVC from scratch in PHP_",
+    "slug": "write-your-own-mvc-from-scratch-in-php_",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "PHP"
+    ],
+    "languageSlugs": [
+      "php"
+    ],
+    "url": "https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-make-your-own-blog",
+    "title": "Make your own blog",
+    "slug": "make-your-own-blog",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "PHP"
+    ],
+    "languageSlugs": [
+      "php"
+    ],
+    "url": "https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-modern-php-without-a-framework",
+    "title": "Modern PHP Without a Framework",
+    "slug": "modern-php-without-a-framework",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "PHP"
+    ],
+    "languageSlugs": [
+      "php"
+    ],
+    "url": "https://kevinsmith.io/modern-php-without-a-framework",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-code-a-web-search-engine-in-php",
+    "title": "Code a Web Search Engine in PHP",
+    "slug": "code-a-web-search-engine-in-php",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "PHP"
+    ],
+    "languageSlugs": [
+      "php"
+    ],
+    "url": "https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-a-deep-learning-library",
+    "title": "Build a Deep Learning Library",
+    "slug": "build-a-deep-learning-library",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.youtube.com/watch?v=o64FV-ez6Gw",
+    "contentType": "video",
+    "sourcePlatform": "YouTube",
+    "difficulty": "intermediate",
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "web-server-how-to-build-a-kick-ass-mobile-document-scanner-in-just-5-minutes",
+    "title": "How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes",
+    "slug": "how-to-build-a-kick-ass-mobile-document-scanner-in-just-5-minutes",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-continuous-integration-system",
+    "title": "Continuous Integration System",
+    "slug": "continuous-integration-system",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://aosabook.org/en/500L/a-continuous-integration-system.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-recommender-systems-in-python-beginner-tutorial",
+    "title": "Recommender Systems in Python: Beginner Tutorial",
+    "slug": "recommender-systems-in-python-beginner-tutorial",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.datacamp.com/community/tutorials/recommender-systems-python",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-write-sms-spam-detector-with-scikit-learn",
+    "title": "Write SMS-spam detector with Scikit-learn",
+    "slug": "write-sms-spam-detector-with-scikit-learn",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2",
+    "contentType": "article",
+    "sourcePlatform": "Medium",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-a-simple-content-based-recommendation-engine-in-python",
+    "title": "A Simple Content-Based Recommendation Engine in Python",
+    "slug": "a-simple-content-based-recommendation-engine-in-python",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-stock-market-predictions-with-lstm-in-python",
+    "title": "Stock Market Predictions with LSTM in Python",
+    "slug": "stock-market-predictions-with-lstm-in-python",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://www.datacamp.com/community/tutorials/lstm-python-stock-market",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-building-a-simple-generative-adversarial-network-gan-using-tensorflow",
+    "title": "Building a simple Generative Adversarial Network (GAN) using Tensorflow",
+    "slug": "building-a-simple-generative-adversarial-network-gan-using-tensorflow",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://blog.paperspace.com/implementing-gans-in-tensorflow/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-learn-ml-algorithms-by-coding-decision-trees",
+    "title": "Learn ML Algorithms by coding: Decision Trees",
+    "slug": "learn-ml-algorithms-by-coding-decision-trees",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-json-decoding-algorithm",
+    "title": "JSON Decoding Algorithm",
+    "slug": "json-decoding-algorithm",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://github.com/cheery/json-algorithm",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-build-your-own-git-plugin-with-python",
+    "title": "Build your own Git plugin with python",
+    "slug": "build-your-own-git-plugin-with-python",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Python"
+    ],
+    "languageSlugs": [
+      "python"
+    ],
+    "url": "https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-a-pedometer-in-the-real-world",
+    "title": "A Pedometer in the Real World",
+    "slug": "a-pedometer-in-the-real-world",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-creating-a-linux-desktop-application-with-ruby",
+    "title": "Creating a Linux Desktop application with Ruby",
+    "slug": "creating-a-linux-desktop-application-with-ruby",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Ruby"
+    ],
+    "languageSlugs": [
+      "ruby"
+    ],
+    "url": "https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-building-a-dns-server-in-rust",
+    "title": "Building a DNS server in Rust",
+    "slug": "building-a-dns-server-in-rust",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://github.com/EmilHernvall/dnsguide/blob/master/README.md",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-writing-scalable-chat-service-from-scratch",
+    "title": "Writing Scalable Chat Service from Scratch",
+    "slug": "writing-scalable-chat-service-from-scratch",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "intermediate",
+    "tags": []
+  },
+  {
+    "id": "web-server-webgl-rust-basic-water-tutorial",
+    "title": "WebGL + Rust: Basic Water Tutorial",
+    "slug": "webgl-rust-basic-water-tutorial",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "Rust"
+    ],
+    "languageSlugs": [
+      "rust"
+    ],
+    "url": "https://www.chinedufn.com/3d-webgl-basic-water-tutorial/",
+    "contentType": "article",
+    "sourcePlatform": "Blog",
+    "difficulty": "beginner",
+    "tags": []
+  },
+  {
+    "id": "web-server-tiny-package-manager-learns-how-npm-or-yarn-works",
+    "title": "Tiny Package Manager: Learns how npm or Yarn works",
+    "slug": "tiny-package-manager-learns-how-npm-or-yarn-works",
+    "category": "Web Server",
+    "categorySlug": "web-server",
+    "languages": [
+      "TypeScript"
+    ],
+    "languageSlugs": [
+      "typescript"
+    ],
+    "url": "https://github.com/g-plane/tiny-package-manager",
+    "contentType": "repository",
+    "sourcePlatform": "GitHub",
+    "difficulty": "intermediate",
+    "tags": []
+  }
+]

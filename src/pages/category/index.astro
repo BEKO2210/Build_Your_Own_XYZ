@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/navigation/Header.astro';
+import Footer from '../../components/navigation/Footer.astro';
+import CategoryCard from '../../components/content/CategoryCard.astro';
+import { getAllCategories } from '../../lib/data/collections';
+
+const categories = await getAllCategories();
+---
+
+<BaseLayout 
+  title="Categories - Build Your Own X"
+  description={`Browse all ${categories.length} categories of tutorials. Find tutorials for building databases, games, operating systems, and more.`}
+>
+  <Header />
+  
+  <main class="flex-grow">
+    <!-- Header -->
+    <section class="bg-gradient-to-br from-primary-50 to-white dark:from-gray-900 dark:to-gray-900/50 py-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-2xl mx-auto">
+          <h1 class="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
+            Browse by Category
+          </h1>
+          <p class="text-gray-600 dark:text-gray-400">
+            Explore {categories.length} categories of tutorials. From databases to games, 
+            operating systems to web servers—find your next learning project.
+          </p>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Categories Grid -->
+    <section class="py-12 lg:py-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          {categories.map(category => (
+            <CategoryCard category={category} />
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <Footer />
+</BaseLayout>

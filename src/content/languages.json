@@ -1,0 +1,261 @@
+[
+  {
+    "id": "java",
+    "name": "Java",
+    "slug": "java",
+    "brandColor": "#007396",
+    "tutorialCount": 10
+  },
+  {
+    "id": "c",
+    "name": "C++",
+    "slug": "c",
+    "brandColor": "#00599C",
+    "tutorialCount": 33
+  },
+  {
+    "id": "c",
+    "name": "C#",
+    "slug": "c",
+    "brandColor": "#239120",
+    "tutorialCount": 15
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "slug": "typescript",
+    "brandColor": "#3178C6",
+    "tutorialCount": 5
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "slug": "javascript",
+    "brandColor": "#F7DF1E",
+    "tutorialCount": 55
+  },
+  {
+    "id": "pseudocode",
+    "name": "Pseudocode",
+    "slug": "pseudocode",
+    "brandColor": "#6366F1",
+    "tutorialCount": 1
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "slug": "python",
+    "brandColor": "#3776AB",
+    "tutorialCount": 72
+  },
+  {
+    "id": "go",
+    "name": "Go",
+    "slug": "go",
+    "brandColor": "#00ADD8",
+    "tutorialCount": 23
+  },
+  {
+    "id": "nim",
+    "name": "Nim",
+    "slug": "nim",
+    "brandColor": "#FFE953",
+    "tutorialCount": 9
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "slug": "nodejs",
+    "brandColor": "#339933",
+    "tutorialCount": 15
+  },
+  {
+    "id": "ats",
+    "name": "ATS",
+    "slug": "ats",
+    "brandColor": "#1ACCEF",
+    "tutorialCount": 1
+  },
+  {
+    "id": "crystal",
+    "name": "Crystal",
+    "slug": "crystal",
+    "brandColor": "#000100",
+    "tutorialCount": 2
+  },
+  {
+    "id": "kotlin",
+    "name": "Kotlin",
+    "slug": "kotlin",
+    "brandColor": "#7F52FF",
+    "tutorialCount": 2
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "slug": "ruby",
+    "brandColor": "#CC342D",
+    "tutorialCount": 13
+  },
+  {
+    "id": "scala",
+    "name": "Scala",
+    "slug": "scala",
+    "brandColor": "#DC322F",
+    "tutorialCount": 2
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "slug": "rust",
+    "brandColor": "#DEA584",
+    "tutorialCount": 17
+  },
+  {
+    "id": "haskell",
+    "name": "Haskell",
+    "slug": "haskell",
+    "brandColor": "#5D4F85",
+    "tutorialCount": 6
+  },
+  {
+    "id": "r",
+    "name": "R",
+    "slug": "r",
+    "brandColor": "#276DC3",
+    "tutorialCount": 1
+  },
+  {
+    "id": "zig",
+    "name": "Zig",
+    "slug": "zig",
+    "brandColor": "#EC915C",
+    "tutorialCount": 1
+  },
+  {
+    "id": "c",
+    "name": "C",
+    "slug": "c",
+    "brandColor": "#A8B9CC",
+    "tutorialCount": 50
+  },
+  {
+    "id": "clojure",
+    "name": "Clojure",
+    "slug": "clojure",
+    "brandColor": "#5881D8",
+    "tutorialCount": 2
+  },
+  {
+    "id": "shell",
+    "name": "Shell",
+    "slug": "shell",
+    "brandColor": "#89E051",
+    "tutorialCount": 1
+  },
+  {
+    "id": "common-lisp",
+    "name": "Common Lisp",
+    "slug": "common-lisp",
+    "brandColor": "#3FB68B",
+    "tutorialCount": 1
+  },
+  {
+    "id": "lua",
+    "name": "Lua",
+    "slug": "lua",
+    "brandColor": "#000080",
+    "tutorialCount": 2
+  },
+  {
+    "id": "f",
+    "name": "F#",
+    "slug": "f",
+    "brandColor": "#378BBA",
+    "tutorialCount": 3
+  },
+  {
+    "id": "assembly",
+    "name": "Assembly",
+    "slug": "assembly",
+    "brandColor": "#6E4C13",
+    "tutorialCount": 3
+  },
+  {
+    "id": "any",
+    "name": "(any)",
+    "slug": "any",
+    "brandColor": "#6366F1",
+    "tutorialCount": 4
+  },
+  {
+    "id": "verilog",
+    "name": "Verilog",
+    "slug": "verilog",
+    "brandColor": "#B2B7F8",
+    "tutorialCount": 1
+  },
+  {
+    "id": "elixir",
+    "name": "Elixir",
+    "slug": "elixir",
+    "brandColor": "#4B275F",
+    "tutorialCount": 1
+  },
+  {
+    "id": "ocaml",
+    "name": "OCaml",
+    "slug": "ocaml",
+    "brandColor": "#EC6813",
+    "tutorialCount": 2
+  },
+  {
+    "id": "pascal",
+    "name": "Pascal",
+    "slug": "pascal",
+    "brandColor": "#E3F171",
+    "tutorialCount": 1
+  },
+  {
+    "id": "racket",
+    "name": "Racket",
+    "slug": "racket",
+    "brandColor": "#3C5CAA",
+    "tutorialCount": 1
+  },
+  {
+    "id": "swift",
+    "name": "Swift",
+    "slug": "swift",
+    "brandColor": "#F05138",
+    "tutorialCount": 1
+  },
+  {
+    "id": "perl",
+    "name": "Perl",
+    "slug": "perl",
+    "brandColor": "#39457E",
+    "tutorialCount": 1
+  },
+  {
+    "id": "css",
+    "name": "CSS",
+    "slug": "css",
+    "brandColor": "#6366F1",
+    "tutorialCount": 1
+  },
+  {
+    "id": "php",
+    "name": "PHP",
+    "slug": "php",
+    "brandColor": "#777BB4",
+    "tutorialCount": 5
+  },
+  {
+    "id": "alloy",
+    "name": "Alloy",
+    "slug": "alloy",
+    "brandColor": "#64C800",
+    "tutorialCount": 1
+  }
+]
