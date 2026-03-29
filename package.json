@@ -10,7 +10,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "ingest": "node scripts/parse-readme.js",
-    "prebuild": "npm run ingest"
+    "fetch-readmes": "node scripts/fetch-github-readmes.js",
+    "prebuild": "npm run ingest && npm run fetch-readmes"
   },
   "dependencies": {
     "astro": "^4.5.0",

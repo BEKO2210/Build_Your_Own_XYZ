@@ -31,3 +31,6 @@ pnpm-debug.log*
 # Cache
 .cache/
 .eslintcache
+
+# Fetched README cache (rebuilt during CI)
+src/content/readmes/
