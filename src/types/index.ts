@@ -11,6 +11,9 @@ export interface Tutorial {
   sourcePlatform: string;
   difficulty: 'beginner' | 'intermediate' | 'advanced';
   tags: string[];
+  youtubeVideoId?: string | null;
+  youtubePlaylistId?: string | null;
+  description?: string;
 }
 
 export interface Category {

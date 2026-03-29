@@ -1,0 +1,256 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/navigation/Header.astro';
+import Footer from '../../components/navigation/Footer.astro';
+import TutorialCard from '../../components/content/TutorialCard.astro';
+import { getAllTutorials, getRelatedTutorials } from '../../lib/data/collections';
+
+export async function getStaticPaths() {
+  const tutorials = getAllTutorials();
+  return tutorials.map(tutorial => ({
+    params: { slug: tutorial.slug },
+    props: { tutorial }
+  }));
+}
+
+const { tutorial } = Astro.props;
+const relatedTutorials = getRelatedTutorials(tutorial, 6);
+
+const languageColors: Record<string, string> = {
+  'Python': '#3776AB', 'JavaScript': '#F7DF1E', 'TypeScript': '#3178C6',
+  'C': '#A8B9CC', 'C++': '#00599C', 'Go': '#00ADD8', 'Rust': '#DEA584',
+  'Java': '#007396', 'Ruby': '#CC342D', 'Node.js': '#339933', 'C#': '#239120',
+  'Haskell': '#5D4F85', 'Nim': '#FFE953', 'PHP': '#777BB4', 'Swift': '#F05138',
+  'Kotlin': '#7F52FF'
+};
+
+const difficultyConfig: Record<string, { color: string; label: string }> = {
+  beginner: { color: 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400', label: 'Beginner' },
+  intermediate: { color: 'bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-400', label: 'Intermediate' },
+  advanced: { color: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400', label: 'Advanced' }
+};
+
+const contentTypeIcons: Record<string, string> = {
+  article: `<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>`,
+  video: `<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>`,
+  repository: `<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"/></svg>`
+};
+
+const difficulty = difficultyConfig[tutorial.difficulty] || difficultyConfig.beginner;
+
+const youtubeEmbedUrl = tutorial.youtubeVideoId
+  ? `https://www.youtube.com/embed/${tutorial.youtubeVideoId}`
+  : tutorial.youtubePlaylistId
+    ? `https://www.youtube.com/embed/videoseries?list=${tutorial.youtubePlaylistId}`
+    : null;
+---
+
+<BaseLayout
+  title={`${tutorial.title} - Build Your Own X`}
+  description={tutorial.description || `Learn to build your own ${tutorial.category.toLowerCase()} with this ${tutorial.difficulty} ${tutorial.contentType} tutorial.`}
+>
+  <Header />
+
+  <main class="flex-grow">
+    <!-- Breadcrumb -->
+    <div class="bg-gray-50 dark:bg-gray-800/50 border-b border-gray-200 dark:border-gray-800">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <nav class="flex items-center gap-2 text-sm flex-wrap">
+          <a href={`${import.meta.env.BASE_URL}`} class="text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">Home</a>
+          <svg class="w-4 h-4 text-gray-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+          <a href={`${import.meta.env.BASE_URL}category/${tutorial.categorySlug}`} class="text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400">{tutorial.category}</a>
+          <svg class="w-4 h-4 text-gray-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+          <span class="text-gray-900 dark:text-white font-medium line-clamp-1">{tutorial.title}</span>
+        </nav>
+      </div>
+    </div>
+
+    <!-- Tutorial Header -->
+    <section class="bg-gradient-to-br from-primary-50 to-white dark:from-gray-900 dark:to-gray-900/50 py-12 lg:py-16">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+          {tutorial.title}
+        </h1>
+
+        <!-- Metadata Badges -->
+        <div class="flex items-center gap-3 flex-wrap mb-6">
+          <!-- Difficulty -->
+          <span class={`inline-flex items-center gap-1.5 text-sm font-medium px-3 py-1.5 rounded-full ${difficulty.color}`}>
+            {difficulty.label}
+          </span>
+
+          <!-- Content Type -->
+          <span class="inline-flex items-center gap-1.5 text-sm font-medium px-3 py-1.5 rounded-full bg-gray-100 text-gray-700 dark:bg-gray-700 dark:text-gray-300">
+            <Fragment set:html={contentTypeIcons[tutorial.contentType]} />
+            {tutorial.contentType.charAt(0).toUpperCase() + tutorial.contentType.slice(1)}
+          </span>
+
+          <!-- Languages -->
+          {tutorial.languages.map(lang => (
+            <span
+              class="inline-flex items-center gap-1.5 text-sm font-medium px-3 py-1.5 rounded-full bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-600 text-gray-800 dark:text-gray-200"
+            >
+              <span
+                class="w-2.5 h-2.5 rounded-full flex-shrink-0"
+                style={`background-color: ${languageColors[lang] || '#6366F1'}`}
+              />
+              {lang}
+            </span>
+          ))}
+
+          <!-- Source Platform -->
+          <span class="inline-flex items-center gap-1.5 text-sm font-medium px-3 py-1.5 rounded-full bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-400">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9"/>
+            </svg>
+            {tutorial.sourcePlatform}
+          </span>
+        </div>
+
+        <!-- Category Link -->
+        <a
+          href={`${import.meta.env.BASE_URL}category/${tutorial.categorySlug}`}
+          class="inline-flex items-center gap-2 text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium transition-colors"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>
+          </svg>
+          {tutorial.category}
+        </a>
+      </div>
+    </section>
+
+    <!-- Content Section -->
+    <section class="py-12 lg:py-16">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        <!-- Video Embed (YouTube) -->
+        {tutorial.contentType === 'video' && youtubeEmbedUrl && (
+          <div class="mb-10">
+            <iframe
+              src={youtubeEmbedUrl}
+              class="w-full aspect-video rounded-xl"
+              allowfullscreen
+              loading="lazy"
+              sandbox="allow-scripts allow-same-origin allow-presentation"
+              title={tutorial.title}
+            />
+          </div>
+        )}
+
+        <!-- Repository Card (GitHub) -->
+        {tutorial.contentType === 'repository' && (
+          <div class="mb-10 bg-gradient-to-br from-gray-900 to-gray-800 rounded-xl overflow-hidden shadow-xl">
+            <div class="p-8">
+              <div class="flex items-center gap-4 mb-6">
+                <div class="p-3 bg-white/10 rounded-xl">
+                  <svg class="w-8 h-8 text-white" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                  </svg>
+                </div>
+                <div>
+                  <h3 class="text-xl font-bold text-white">GitHub Repository</h3>
+                  <p class="text-sm text-gray-400 break-all mt-1">{tutorial.url.replace('https://github.com/', '')}</p>
+                </div>
+              </div>
+              <p class="text-gray-300 mb-6">
+                This tutorial is hosted as a GitHub repository. Clone it, explore the code, and build along step by step.
+              </p>
+              <div class="flex flex-wrap gap-3">
+                <a
+                  href={tutorial.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="inline-flex items-center gap-2 px-5 py-2.5 bg-white text-gray-900 font-medium rounded-lg hover:bg-gray-100 transition-colors"
+                >
+                  <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                  </svg>
+                  View on GitHub
+                </a>
+                <a
+                  href={`${tutorial.url}/archive/refs/heads/main.zip`}
+                  class="inline-flex items-center gap-2 px-5 py-2.5 bg-white/10 text-white font-medium rounded-lg hover:bg-white/20 transition-colors"
+                >
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+                  </svg>
+                  Download ZIP
+                </a>
+              </div>
+            </div>
+          </div>
+        )}
+
+        <!-- Article Card -->
+        {tutorial.contentType === 'article' && (
+          <div class="mb-10 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-6">
+            <div class="flex items-center gap-3 mb-4">
+              <div class="p-3 bg-primary-50 dark:bg-primary-900/20 rounded-lg">
+                <Fragment set:html={contentTypeIcons.article} />
+              </div>
+              <div>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Article</h3>
+                <p class="text-sm text-gray-500 dark:text-gray-400 break-all">{tutorial.url}</p>
+              </div>
+            </div>
+            <a
+              href={tutorial.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-2 px-5 py-2.5 bg-primary-600 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors"
+            >
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+              </svg>
+              Read Full Article
+            </a>
+          </div>
+        )}
+
+        <!-- Description -->
+        {tutorial.description && (
+          <div class="mb-10">
+            <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-3">About this tutorial</h2>
+            <p class="text-gray-600 dark:text-gray-400 leading-relaxed">{tutorial.description}</p>
+          </div>
+        )}
+
+        <!-- Open External Resource Button -->
+        <div class="mb-12">
+          <a
+            href={tutorial.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+            </svg>
+            Open External Resource
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Related Tutorials -->
+    {relatedTutorials.length > 0 && (
+      <section class="py-12 lg:py-16 bg-gray-50 dark:bg-gray-800/50 border-t border-gray-200 dark:border-gray-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-8">Related Tutorials</h2>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {relatedTutorials.map(related => (
+              <TutorialCard tutorial={related} />
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+  </main>
+
+  <Footer />
+</BaseLayout>

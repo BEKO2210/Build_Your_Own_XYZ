@@ -44,10 +44,12 @@ for (let i = 0; i < lines.length; i++) {
     // Handle multiple languages
     const langList = langPart.split(/\s*\/\s*/).map(l => l.trim()).filter(Boolean);
     
+    const ytIds = extractYouTubeId(url);
+
     const tutorial = {
       id: `${slugify(currentCategory)}-${slugify(title)}`,
       title: title,
-      slug: slugify(title),
+      slug: `${slugify(currentCategory)}-${slugify(title)}`,
       category: currentCategory,
       categorySlug: slugify(currentCategory),
       languages: langList,
@@ -56,8 +58,13 @@ for (let i = 0; i < lines.length; i++) {
       contentType: tag === 'video' ? 'video' : detectContentType(url),
       sourcePlatform: detectSourcePlatform(url),
       difficulty: detectDifficulty(title),
-      tags: tag ? [tag] : []
+      tags: tag ? [tag] : [],
+      youtubeVideoId: ytIds.videoId,
+      youtubePlaylistId: ytIds.playlistId,
+      description: ''
     };
+
+    tutorial.description = generateDescription(tutorial);
     
     tutorials.push(tutorial);
     
@@ -82,7 +89,42 @@ for (let i = 0; i < lines.length; i++) {
   }
 }
 
+// Deduplicate tutorial IDs and slugs
+const idCounts = new Map();
+for (const tutorial of tutorials) {
+  const baseId = tutorial.id;
+  if (idCounts.has(baseId)) {
+    const count = idCounts.get(baseId) + 1;
+    idCounts.set(baseId, count);
+    tutorial.id = `${baseId}-${count}`;
+    tutorial.slug = `${tutorial.slug}-${count}`;
+  } else {
+    idCounts.set(baseId, 1);
+  }
+}
+
 // Helper functions
+function extractYouTubeId(url) {
+  // Standard watch URL: https://www.youtube.com/watch?v=XXXX
+  const watchMatch = url.match(/youtube\.com\/watch\?(?:.*&)?v=([^&]+)/);
+  if (watchMatch) return { videoId: watchMatch[1], playlistId: null };
+
+  // Playlist URL: https://www.youtube.com/playlist?list=XXXX
+  const playlistMatch = url.match(/youtube\.com\/playlist\?(?:.*&)?list=([^&]+)/);
+  if (playlistMatch) return { videoId: null, playlistId: playlistMatch[1] };
+
+  // Short URL: https://youtu.be/XXXX
+  const shortMatch = url.match(/youtu\.be\/([^?&]+)/);
+  if (shortMatch) return { videoId: shortMatch[1], playlistId: null };
+
+  return { videoId: null, playlistId: null };
+}
+
+function generateDescription(tutorial) {
+  const langs = tutorial.languages.join(', ');
+  return `Learn how to build a ${tutorial.title} using ${langs}. A ${tutorial.difficulty} ${tutorial.contentType} from ${tutorial.sourcePlatform}.`;
+}
+
 function slugify(text) {
   return text
     .toLowerCase()
